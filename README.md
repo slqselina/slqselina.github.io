@@ -1,24 +1,12 @@
 # english-su.com
 
-## Get started with vagrant
-
-### Install Vagrant
-
-Download and install [Vagrant](https://www.vagrantup.com/downloads.html)
-Download and install Oracle's [VirtualBox](https://www.virtualbox.org)
-
-### Start virtual machine
+### Start the server with the robust theme
 
 Run this command in this directory
 ```
-vagrant up
+hugo -w server --theme=hugo_theme_robust --buildDrafts --bind="0.0.0.0"
 ```
-
-### Preview the site
-Login to vagrant and run the `hugo` server
-
+or you can try
 ```
-vagrant ssh
-cd /vagrant
 hugo -w server --theme=hugo_theme_robust --buildDrafts --bind="0.0.0.0"
 ```
