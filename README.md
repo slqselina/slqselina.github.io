@@ -13,3 +13,9 @@ To create a new post:
 ```
 hugo new post/tahoe-rim-echo-summit-to-kingsbury-south.md
 ```
+
+Compress the image:
+```
+cd static/img
+jpegtran -copy none -optimize -progressive -outfile ferry-ride-small.jpg ferry-ride.jpg
+```
