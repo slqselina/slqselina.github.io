@@ -1,14 +1,28 @@
 ---
 title: "Queen Charlotte Track"
-date: 2017-08-16T19:29:06-07:00
+date: 2015-12-15T19:29:06-07:00
 draft: true
 ---
 ## Dec 1, 2015
 ## Ship Cove->Camp Bay Campsite
 ### 27 km - Overcast/Rainy
 
+{{< img-post path="date" file="ferry-ride.jpg" alt="Alt Text" >}}
+
 We took a ferry from the pier in Picton to the starting point of this hike at Ship Cove. During the ride we not only witnessed the green rolling mountains along Queen Charlotte Sound but also cute little penguins living on an isolated islands and groups of welcoming dolphins popping out of the water.
-![Queen Charlotte Ferry Ride](/img/ferry-ride.JPG)
+![Queen Charlotte Ferry Ride](/img/2015/12/ferry-ride.jpg)
+
+
+
+{{< img-fit
+    "4u" "ferry-ride.jpg" "Alt text"
+    "4u" "at-the-trail-head.jpg" "describe me"
+    "4u" "azure-water.jpg" "describe me"
+    "4u" "bridge-crossing.jpg" "describe me"
+    "4u" "dophins.jpg" "describe me"
+    "4u" "overlook-of-queen-charlotte-sound.jpg" "describe me"
+    "4u" "trail.jpg" "describe me"
+    "date" >}}
 
 The trail was muddy from  the rain with continuous ups and downs and some bridge crossings but we were rewarded with stunningly beautiful views of the sound every once a while. Even under the bad weather, the ocean still maintained its charming azure.
 
