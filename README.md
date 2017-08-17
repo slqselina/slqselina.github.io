@@ -7,9 +7,9 @@ Run this command in this directory to use the hugo-future-imperfect
 ```
 hugo -w server --theme=hugo-future-imperfect --buildDrafts
 ```
-or you can try
-```
-hugo -w server --theme=hugo_theme_robust --buildDrafts
-```
 
-To run with
+
+To create a new post:
+```
+hugo new post/tahoe-rim-echo-summit-to-kingsbury-south.md
+```
