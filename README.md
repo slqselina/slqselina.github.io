@@ -5,7 +5,7 @@
 Run this command in this directory to use the hugo-future-imperfect
 
 ```
-hugo -w server --theme=hugo-future-imperfect --buildDrafts
+hugo -w server --buildDrafts
 ```
 
 

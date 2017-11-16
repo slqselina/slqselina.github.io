@@ -1,6 +1,5 @@
 +++
 date = "2017-08-16T20:19:34-07:00"
-draft = true
 title = "Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days"
 +++
 ## Aug 11, 2017
