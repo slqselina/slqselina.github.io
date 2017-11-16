@@ -30,7 +30,7 @@ git subtree pull --prefix=public git@github.com:slqselina/slqselina.github.io.gi
 ```
 Generate site
 ```
-hugo -t creative-theme
+hugo -t hugo-future-imperfect
 ```
 Add everything
 ```
