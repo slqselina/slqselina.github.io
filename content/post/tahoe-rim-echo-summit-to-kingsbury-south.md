@@ -18,3 +18,18 @@ title = "Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days"
 16:23pm - Tahoe Rim Trail/Pacific Crest Trail junction
 
 17:49pm - Arrive at Round Lake and setup camp
+
+
+![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/uploads/trtday1a.jpg)
+
+![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/uploads/trtday1b.jpg)
+
+![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/uploads/trtday1c.jpg)
+
+![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/uploads/trtday1d.jpg)
+
+![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/uploads/trtday1e.jpg)
+
+![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/uploads/trtday1f.jpg)
+
+![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/uploads/trtday1g.jpg)
