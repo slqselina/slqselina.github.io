@@ -15,3 +15,5 @@ categories:
 * 7:30am - Reach Star Lake
 * 8:52am - Monument Peak Trail Junction
 * 11:20am - Kingsbury South Trailhead
+
+Home Sweet Home!
