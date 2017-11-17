@@ -1,7 +1,10 @@
-+++
-date = "2017-08-17T20:19:34-07:00"
-title = "Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass"
-+++
+---
+date: "2017-08-17T20:19:34-07:00"
+title: "Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass"
+categories:
+  - Hiking
+  - Backpacking
+---
 # Aug 12, 2017
 ## Tahoe Rim Trail - Day 2
 ### Round Lake -> Near Armstrong Pass

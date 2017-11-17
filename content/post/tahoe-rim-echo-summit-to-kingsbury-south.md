@@ -1,7 +1,10 @@
-+++
-date = "2017-08-16T20:19:34-07:00"
-title = "Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days"
-+++
+---
+date: "2017-08-16T20:19:34-07:00"
+title: "Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days"
+categories:
+  - Hiking
+  - Backpacking
+---
 ## Aug 11, 2017
 ## Echo Summit -> Round Lake
 
