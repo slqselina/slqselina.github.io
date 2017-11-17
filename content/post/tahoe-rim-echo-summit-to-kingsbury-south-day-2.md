@@ -5,12 +5,12 @@ categories:
   - Hiking
   - Backpacking
 ---
+![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/uploads/trtday2f.jpg)
 # Aug 12, 2017
 ## Tahoe Rim Trail - Day 2
 ### Round Lake -> Near Armstrong Pass
 
 #### Trip log:
-
 * 8:24am - Start out from Round Lake.
 * 9:36am - Scott Lake Junction
 * 9:48am - Highway 89
