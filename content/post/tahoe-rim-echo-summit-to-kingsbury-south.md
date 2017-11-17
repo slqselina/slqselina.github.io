@@ -1,6 +1,6 @@
 ---
 date: "2017-08-16T20:19:34-07:00"
-title: "Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days"
+title: "4 Days on Tahoe Rim Trail DAY 1 - Echo Summit -> Kingsbury South"
 categories:
   - Hiking
   - Backpacking

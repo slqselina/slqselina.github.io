@@ -9,9 +9,9 @@ googleAnalytics = ""
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "English-Su.com - Adventures of Kevin and Aki"
+    description          = "ENGLISH-SU.COM - Adventures of Kevin and Aki"
     # This will appear on the top left of the navigation bar
-    navbarTitle          = "English-Su.com"
+    navbarTitle          = "ENGLISH-SU.COM"
     # Social media buttons that appear on the sidebar
     socialAppearAtTop    = true
     socialAppearAtBottom = true
@@ -43,7 +43,7 @@ googleAnalytics = ""
 [params.intro]
     header    = "English-Su.com"
 
-    paragraph = "Kevin and Aki hike, travel, Tahoe, China, California stuff <i class='fa fa-hand-peace-o'></i>"
+    paragraph = "Kevin and Aki hike, travel, stuff <i class='fa fa-hand-peace-o'></i>"
 
     # about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
 

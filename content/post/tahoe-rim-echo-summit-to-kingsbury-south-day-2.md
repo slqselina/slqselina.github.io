@@ -1,6 +1,6 @@
 ---
 date: "2017-08-17T20:19:34-07:00"
-title: "Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass"
+title: "4 Days on Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass"
 categories:
   - Hiking
   - Backpacking
@@ -17,3 +17,13 @@ categories:
 * 10:19am - Depart Highway 89/Big Meadow parking lot
 * 14:06pm - Saxon Creek junction
 * 16:45pm - Found our campsite for the night above a spring
+
+![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/uploads/trtday2a.jpg)
+
+![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/uploads/trtday2b.jpg)
+
+![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/uploads/trtday2c.jpg)
+
+![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/uploads/trtday2d.jpg)
+
+![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/uploads/trtday2e.jpg)
