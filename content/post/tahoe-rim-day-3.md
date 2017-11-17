@@ -1,7 +1,10 @@
-+++
-date = "2017-08-17T20:29:34-07:00"
-title = "Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake"
-+++
+---
+date: "2017-08-17T20:29:34-07:00"
+title: "Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake"
+categories:
+  - Hiking
+  - Backpacking
+---
 # Aug 13, 2017
 ## Tahoe Rim Trail - Day 3
 ### Armstrong Pass -> Star Lake
