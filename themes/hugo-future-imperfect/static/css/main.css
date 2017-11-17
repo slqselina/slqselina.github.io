@@ -3241,7 +3241,7 @@
 
 	#intro .logo {
 		border-bottom: 0;
-		display: inline-block;
+		display: initial;
 		margin: 0 0 1em 0;
 		overflow: hidden;
 		position: relative;
@@ -3265,7 +3265,7 @@
 		#intro .logo img {
 			display: block;
 			margin-left: -0.25em;
-			width: 4.5em;
+			width: 20em;
 		}
 
 	#intro header h2 {
