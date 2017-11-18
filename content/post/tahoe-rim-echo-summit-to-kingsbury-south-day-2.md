@@ -16,7 +16,7 @@ categories:
 * 9:48am - Highway 89
 * 10:19am - Depart Highway 89/Big Meadow parking lot
 * 14:06pm - Saxon Creek junction
-* 16:45pm - Found our campsite for the night above a spring
+* 16:45pm - Find our campsite for the night above a spring
 
 ![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/uploads/trtday2a.jpg)
 

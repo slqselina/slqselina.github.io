@@ -19,7 +19,7 @@ categories:
 * 11:15am - Summit Freel Peak - 10,881 ft.
 * 13:41am - After nap on the summit, depart Freel Peak.
 * 14:15am - Back on the TRT
-* 14:41pm - Found a nice campsite next to a stream about 1 mile before Star Lake.
+* 14:41pm - Find a nice campsite next to a stream about 1 mile before Star Lake.
 
 ![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/uploads/trtday3b.jpg)
 
