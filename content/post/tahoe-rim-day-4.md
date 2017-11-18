@@ -17,3 +17,13 @@ categories:
 * 11:20am - Kingsbury South Trailhead
 
 Home Sweet Home!
+
+![4 Days on Tahoe Rim Trail DAY 4 - Star Lake -> Kingsbury South](/img/uploads/trtday4a.jpg)
+
+![4 Days on Tahoe Rim Trail DAY 4 - Star Lake -> Kingsbury South](/img/uploads/trtday4b.jpg)
+
+![4 Days on Tahoe Rim Trail DAY 4 - Star Lake -> Kingsbury South](/img/uploads/trtday4c.jpg)
+
+![4 Days on Tahoe Rim Trail DAY 4 - Star Lake -> Kingsbury South](/img/uploads/trtday4e.jpg)
+
+![4 Days on Tahoe Rim Trail DAY 4 - Star Lake -> Kingsbury South](/img/uploads/trtday4a.jpg)
