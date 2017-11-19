@@ -54,7 +54,7 @@ googleAnalytics = "UA-89104470-2"
     src       = "/img/logo.jpg"
     # modify your picture in the shape of a circle or
     # future imperfect's hexagonal shape
-    circle    = false
+    circle    = true
     imperfect = true
     width     = ""
     alt       = "we have fun"
