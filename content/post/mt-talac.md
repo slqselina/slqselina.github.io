@@ -33,6 +33,6 @@ categories:
 
 {{< figure src="/img/2017/8/mt-tallac-h.jpg" title="Chipmunks are not shy at all. They seem to have a good life on the chilly moutain top." >}}
 
-{{< figure src="/img/2017/8/mt-tallac-i.jpg" title="By the time we start to walk back, tons of people are hiking upwards even though it starts to drizzle." >}}
+{{< figure src="/img/2017/8/mt-tallac-i.jpg" title="By the time we start to walk back, tons of people are hiking upwards even though the sun is gone and it starts to rain." >}}
 
 {{< figure src="/img/2017/8/mt-tallac-j.jpg" title="The return trip is much easier, but we feel reluctant to say goodbuy to this lake view. We'll be back soon ..." >}}
