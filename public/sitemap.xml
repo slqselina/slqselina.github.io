@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://english-su.com/post/mt-talac/</loc>
+    <lastmod>2017-08-20T20:29:34-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://english-su.com/post/tahoe-rim-day-4/</loc>
     <lastmod>2017-08-17T20:39:34-07:00</lastmod>
   </url>
@@ -23,42 +28,59 @@
   </url>
   
   <url>
+    <loc>http://english-su.com/post/chiang-dao-hike/</loc>
+    <lastmod>2016-11-19T19:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://english-su.com/post/queen-charlotte-track/</loc>
     <lastmod>2015-12-15T19:29:06-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://english-su.com/categories/backpacking/</loc>
-    <lastmod>2017-08-17T20:39:34-07:00</lastmod>
+    <lastmod>2017-08-20T20:29:34-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://english-su.com/categories/</loc>
-    <lastmod>2017-08-17T20:39:34-07:00</lastmod>
+    <lastmod>2017-08-20T20:29:34-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://english-su.com/categories/day-hikes/</loc>
+    <lastmod>2016-11-19T19:30:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://english-su.com/</loc>
-    <lastmod>2017-08-17T20:39:34-07:00</lastmod>
+    <lastmod>2017-08-20T20:29:34-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://english-su.com/categories/hiking/</loc>
-    <lastmod>2017-08-17T20:39:34-07:00</lastmod>
+    <lastmod>2017-08-20T20:29:34-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://english-su.com/post/</loc>
-    <lastmod>2017-08-17T20:39:34-07:00</lastmod>
+    <lastmod>2017-08-20T20:29:34-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://english-su.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://english-su.com/categories/thailand/</loc>
+    <lastmod>2016-11-19T19:30:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
