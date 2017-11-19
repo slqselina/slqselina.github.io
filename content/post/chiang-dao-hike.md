@@ -18,8 +18,6 @@ Trip Log:
 * 410 pm - complete
 * 630pm - culinary excursion to Chiang Dao Nest
 
-
-
 {{< figure src="/img/2016/11/chiang-dao-1.jpg" title="Camp sites below the mountain" >}}
 {{< figure src="/img/2016/11/chiang-dao-2.jpg" title="The goal" >}}
 {{< figure src="/img/2016/11/chiang-dao-3.jpg" title="Steep and narrow scramble to the top" >}}
