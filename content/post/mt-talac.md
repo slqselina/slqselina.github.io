@@ -16,24 +16,23 @@ categories:
 * 12:21pm - Hike down
 * 14:45pm - Back to the parking
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-a.jpg)
-
+{{< figure src="/img/2017/8/mt-tallac-a.jpg" title="Mt. Tallc is known as one of the most popular trailes in Tahoe region and it was weekend in the busy summer, so we started the hike early in the morning in the hope of avoiding big crowd. To our surprise, we soon encounted a group of young people who were already ready to go back home. They said they started between 4am-ish to catch the sunrise!" >}}
 <!--more-->
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-b.jpg)
+{{< figure src="/img/2017/8/mt-tallac-b.jpg" title="The lake is quickly unfolded in front of us like a scroll of painting. We stop to have breakfast while enjoying the view ... for almost an hour!" >}}
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-c.jpg)
+{{< figure src="/img/2017/8/mt-tallac-c.jpg" title="Snow patches are visible at the upper part of the moutain." >}}
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-d.jpg)
+{{< figure src="/img/2017/8/mt-tallac-d.jpg" title="View of a corner of Desolation Wilderness" >}}
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-e.jpg)
+{{< figure src="/img/2017/8/mt-tallac-e.jpg" title="This trail envolves a lot of scrambling, which turns out to be even more challenging with the constant increase of the altitude, but we feel cheered up by these flourishing yellow and purple flowers. " >}}
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-f.jpg)
+{{< figure src="/img/2017/8/mt-tallac-f.jpg" title="From the top of Mt. Tallac, one can not only see Lake Tahoe, Cascade Lake and Fallen Leaf Lake, but also several other alpine lakes located in Desolation Wilderness." >}}
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-g.jpg)
+{{< figure src="/img/2017/8/mt-tallac-g.jpg" title="Emeral Bay and Cascade Lake right at our feet" >}}
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-h.jpg)
+{{< figure src="/img/2017/8/mt-tallac-h.jpg" title="Chipmunks are not shy at all. They seem to have a good life on the chilly moutain top." >}}
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-i.jpg)
+{{< figure src="/img/2017/8/mt-tallac-i.jpg" title="By the time we start to walk back, tons of people are hiking upwards even though the sun is gone and it starts to rain." >}}
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-j.jpg)
+{{< figure src="/img/2017/8/mt-tallac-j.jpg" title="The return trip is much easier, but we feel reluctant to say goodbuy to this lake view. We'll be back soon ..." >}}
