@@ -13,8 +13,8 @@ categories:
 * 7:59am - Breakfast break (stayed longer than actually needed because of the lovely lake view)
 * 8:48am - Move on
 * 10:20am - Summit Mt. Tallac
-* 12:21am - Hike down
-* 14:45am - Back to the parking
+* 12:21pm - Hike down
+* 14:45pm - Back to the parking
 
 ![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-a.jpg)
 
