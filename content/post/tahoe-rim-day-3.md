@@ -20,17 +20,15 @@ categories:
 * 14:15am - Back on the TRT
 * 14:41pm - Find a nice campsite next to a stream about 1 mile before Star Lake.
 
+![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/2017/trtday3b.jpg)
 <!--more-->
 
-![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/uploads/trtday3b.jpg)
+![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/2017/trtday3c.jpg)
 
+![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/2017/trtday3d.jpg)
 
-![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/uploads/trtday3c.jpg)
+![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/2017/trtday3e.jpg)
 
-![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/uploads/trtday3d.jpg)
+![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/2017/trtday3f.jpg)
 
-![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/uploads/trtday3e.jpg)
-
-![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/uploads/trtday3f.jpg)
-
-![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/uploads/trtday3g.jpg)
+![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/2017/trtday3g.jpg)

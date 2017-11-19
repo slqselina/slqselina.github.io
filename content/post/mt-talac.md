@@ -16,24 +16,24 @@ categories:
 * 12:21am - Hike down
 * 14:45am - Back to the parking
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/uploads/mt-tallac-a.jpg)
+![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-a.jpg)
 
 <!--more-->
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/uploads/mt-tallac-b.jpg)
+![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-b.jpg)
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/uploads/mt-tallac-c.jpg)
+![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-c.jpg)
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/uploads/mt-tallac-d.jpg)
+![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-d.jpg)
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/uploads/mt-tallac-e.jpg)
+![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-e.jpg)
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/uploads/mt-tallac-f.jpg)
+![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-f.jpg)
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/uploads/mt-tallac-g.jpg)
+![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-g.jpg)
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/uploads/mt-tallac-h.jpg)
+![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-h.jpg)
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/uploads/mt-tallac-i.jpg)
+![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-i.jpg)
 
-![Mt. Tallac Trail: Out-and-back Day Hike](/img/uploads/mt-tallac-j.jpg)
+![Mt. Tallac Trail: Out-and-back Day Hike](/img/2017/mt-tallac-j.jpg)
