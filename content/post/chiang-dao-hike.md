@@ -29,5 +29,5 @@ Trip Log:
 {{< figure src="/img/2016/11/chiang-dao-8.jpg" title="A beautiful lady takes a break on top of the mountain." >}}
 {{< figure src="/img/2016/11/chiang-dao-6.jpg" title="Stopping to enjoy the view" >}}
 {{< figure src="/img/2016/11/chiang-dao-7.jpg" title="Exercising caution on the descent" >}}
-{{< figure src="/img/2016/11/chiang-dao-9.jpg" title="Doi Chiang Dau from afar" >}}
+{{< figure src="/img/2016/11/chiang-dao-9.jpg" title="Doi Chiang Dao from afar" >}}
  See also: http://spinksytravelworld.com/climbing-doi-luang-chiang-dao
