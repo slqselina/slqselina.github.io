@@ -7,7 +7,7 @@ categories:
   - Thailand
 ---
 ## Nov 22, 2016
-## Doi Chang Dao - 3rd highest peak in Thailand
+## Doi Chiang Dao - 3rd highest peak in Thailand
 
 Trip Log:
 
