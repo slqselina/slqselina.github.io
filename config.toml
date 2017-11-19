@@ -4,8 +4,8 @@ title = "English-Su.com - Adventures of Kevin and Aki"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
-googleAnalytics = ""
+disqusShortname = ""
+googleAnalytics = "UA-89104470-2"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page

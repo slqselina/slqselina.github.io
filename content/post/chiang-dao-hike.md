@@ -1,12 +1,12 @@
 ---
 title: Doi Chang Dao
-date: 2016-11-19T19:30:00-07:00
+date: 2016-11-18T19:30:00-07:00
 categories:
   - Hiking
   - Day Hikes
   - Thailand
 ---
-## Nov 22, 2016
+## Nov 18, 2016
 ## Doi Chiang Dao - 3rd highest peak in Thailand
 
 Trip Log:
