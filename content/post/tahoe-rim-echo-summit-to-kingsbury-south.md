@@ -25,6 +25,8 @@ categories:
 
 ![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/uploads/trtday1a.jpg)
 
+<!--more-->
+
 ![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/uploads/trtday1b.jpg)
 
 ![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/uploads/trtday1c.jpg)

@@ -20,6 +20,8 @@ categories:
 
 ![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/uploads/trtday2a.jpg)
 
+<!--more-->
+
 ![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/uploads/trtday2b.jpg)
 
 ![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/uploads/trtday2c.jpg)

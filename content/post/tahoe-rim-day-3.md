@@ -5,7 +5,6 @@ categories:
   - Hiking
   - Backpacking
 ---
-![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/uploads/trtday3a.jpg)
 # Aug 13, 2017
 ## Tahoe Rim Trail - Day 3
 ### Armstrong Pass -> Star Lake
@@ -21,7 +20,10 @@ categories:
 * 14:15am - Back on the TRT
 * 14:41pm - Find a nice campsite next to a stream about 1 mile before Star Lake.
 
+<!--more-->
+
 ![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/uploads/trtday3b.jpg)
+
 
 ![4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake](/img/uploads/trtday3c.jpg)
 

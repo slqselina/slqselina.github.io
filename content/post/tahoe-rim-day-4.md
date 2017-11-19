@@ -16,9 +16,9 @@ categories:
 * 8:52am - Monument Peak Trail Junction
 * 11:20am - Kingsbury South Trailhead
 
-Home Sweet Home!
-
 ![4 Days on Tahoe Rim Trail DAY 4 - Star Lake -> Kingsbury South](/img/uploads/trtday4a.jpg)
+
+<!--more-->
 
 ![4 Days on Tahoe Rim Trail DAY 4 - Star Lake -> Kingsbury South](/img/uploads/trtday4b.jpg)
 
