@@ -23,7 +23,7 @@ categories:
 
 {{< figure src="/img/2017/8/mt-tallac-c.jpg" title="Snow patches are visible at the upper part of the moutain." >}}
 
-{{< figure src="/img/2017/8/mt-tallac-d.jpg" title="View of Desolation Wilderness" >}}
+{{< figure src="/img/2017/8/mt-tallac-d.jpg" title="View of a corner of Desolation Wilderness" >}}
 
 {{< figure src="/img/2017/8/mt-tallac-e.jpg" title="This trail envolves a lot of scrambling, which turns out to be even more challenging with the constant increase of the altitude, but we feel cheered up by these flourishing yellow and purple flowers. " >}}
 
