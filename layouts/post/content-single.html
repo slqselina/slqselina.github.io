@@ -10,6 +10,7 @@
     <div id="content">
         {{ .Content }}
     </div>
+    {{ partial "post/prev-next-nav" . }}
 
     <footer>
         {{ .Render "footer-category" }}
