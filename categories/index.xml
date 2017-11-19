@@ -6,7 +6,7 @@
     <description>Recent content in Categories on English-Su.com - Adventures of Kevin and Aki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2017 20:39:34 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2017 20:29:34 -0700</lastBuildDate>
     
 	<atom:link href="http://english-su.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,36 @@
     <item>
       <title>Backpacking</title>
       <link>http://english-su.com/categories/backpacking/</link>
-      <pubDate>Thu, 17 Aug 2017 20:39:34 -0700</pubDate>
+      <pubDate>Sun, 20 Aug 2017 20:29:34 -0700</pubDate>
       
       <guid>http://english-su.com/categories/backpacking/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Day Hikes</title>
+      <link>http://english-su.com/categories/day-hikes/</link>
+      <pubDate>Sat, 19 Nov 2016 19:30:00 -0700</pubDate>
+      
+      <guid>http://english-su.com/categories/day-hikes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hiking</title>
       <link>http://english-su.com/categories/hiking/</link>
-      <pubDate>Thu, 17 Aug 2017 20:39:34 -0700</pubDate>
+      <pubDate>Sun, 20 Aug 2017 20:29:34 -0700</pubDate>
       
       <guid>http://english-su.com/categories/hiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thailand</title>
+      <link>http://english-su.com/categories/thailand/</link>
+      <pubDate>Sat, 19 Nov 2016 19:30:00 -0700</pubDate>
+      
+      <guid>http://english-su.com/categories/thailand/</guid>
       <description></description>
     </item>
     
