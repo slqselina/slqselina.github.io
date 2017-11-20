@@ -14,7 +14,7 @@ categories:
 * 14:19pm - Start out
 * 14:26pm - First waterfall
 * 14:35pm - Cascade Vista
-* 14:56am - Reach the boundary of Desolation Wilderness
+* 14:56pm - Reach the boundary of Desolation Wilderness
 * 15:19pm - Hike back
 * 15:33pm - Take a 10 minutes break by a small waterfall along the way
 * 16:11pm - Back to the parking
