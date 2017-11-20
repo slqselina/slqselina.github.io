@@ -1,52 +1,54 @@
 ---
-date: "2017-11-20T20:29:34-07:00"
 title: "Pyramid Creek Geological Area"
+date: "2017-11-20T20:29:34-07:00"
 categories:
   - Hiking
   - Day Hikes
   - USA
 ---
-# Nov 19, 2017
 {{< figure src="/img/2017/11/pyramid-creek-a-cascade-vista.jpg" >}}
 
-#### Trip log:
+# Nov 19, 2017
 
+### Trip log:
 * 14:19pm - Start out
 * 14:26pm - First waterfall
 * 14:35pm - Cascade Vista
-* 14:56am - Reach the border of Desolation Wilderness
+* 14:56am - Reach the boundary of Desolation Wilderness
 * 15:19pm - Hike back
 * 15:33pm - Take a 10 minutes break by a small waterfall alon the way
 * 16:11pm - Back to the parking
 <!--more-->
 
 {{< figure src="/img/2017/11/pyramid-creek-b-sign.jpg" >}}
-The lake quickly unfolded in front of us like a scrolling painting. We stop to have breakfast while enjoying the view ... for almost an hour!
+The Pyramid Creek Loop Trail requireslittle time, but provides beautiful waterfall views. The trailhead is right one the side of Lincoln Hwy to the southwest of South Lake Tahoe, about 20 to 30 minutes away.
 
 {{< figure src="/img/2017/11/pyramid-creek-c-trail.jpg" >}}
-Snow patches are visible at the upper part of the mountain.
+Some sections of the trail are easy to be lost, so a trail sign can be turn out to be helpful.
 
 {{< figure src="/img/2017/11/pyramid-creek-d-cascade-vista.jpg" >}}
-View of a corner of Desolation Wilderness.
+Within 30 minutes, we already reached this big waterfall, impressive.
 
 {{< figure src="/img/2017/11/pyramid-creek-e-horsetail-falls-from-afar.jpg"  >}}
-This trail involves a lot of scrambling, which turns out to be even more challenging with the constant increase of the altitude. We felt cheered up by these flourishing yellow and purple flowers.
+Turning around with our backs to the big waterfall and looking into the distance, we saw the long Horsetail Falls running from the ridge of the high mountain. Trying to observe it more closely, we decided to march towards Desolation Wilderness.
 
 {{< figure src="/img/2017/11/pyramid-creek-f-trail.jpg" >}}
-From the top of Mt. Tallac, one can not only see Lake Tahoe, Cascade Lake and Fallen Leaf Lake, but also several other alpine lakes located in the Desolation Wilderness.
+The trail goes along the creek, accompanied by pines, rocks and bushes.
 
 {{< figure src="/img/2017/11/pyramid-creek-g-desolation-sign.jpg">}}
-Emerald Bay and Cascade Lake right at our feet
+20 minutes later, we reached the boundary of Desolation Wilderness, not bad.
 
 {{< figure src="/img/2017/11/pyramid-creek-h-mountain-view.jpg" >}}
-Chipmunks on the summit are not shy at all. They seem to have a good life on the chilly mountain top.
+Where the sign of Desolation Wilderness is more like a clearing, which provides a more open view of the rugged mountians carved by glaciers.
 
 {{< figure src="/img/2017/11/pyramid-creek-i-waterfall.jpg" >}}
-By the time we start walking back, legions of people were ascending  even though the sun was hiding and it was starting to rain.
+Some samll cascades are nearby.
 
-{{< figure src="/img/2017/11/pyramid-creek-j-creek-crossing.jpg">}}
-The return trip was much easier, but we felt reluctant to say goodbye to this lake view. We'll be back soon ...
+{{< figure src="/img/2017/11/pyramid-creek-j-cascade.jpg" >}}
+After enjoying the cascades long enough, we went deeper into Desolation.
 
-{{< figure src="/img/2017/11/pyramid-creek-k-waterfall.jpg">}}
+{{< figure src="/img/2017/11/pyramid-creek-k-creek-crossing.jpg">}}
+Sometimes crossing the streams through the fallen tree trunks requires a good sense of balance.
 
 {{< figure src="/img/2017/11/pyramid-creek-l-horesetail-falls.jpg">}}
+By the time when we were able to gaze the Horsetail Falls a bit more closely, we realized that we wouldn't have enough time to reach it and come back before it got dark. For safety reason, we decided to make it some other day and start to hike back.

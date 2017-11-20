@@ -4,6 +4,7 @@ title: "4 Days on Tahoe Rim Trail DAY 4 - Star Lake -> Kingsbury South"
 categories:
   - Hiking
   - Backpacking
+  - USA
 ---
 # Aug 14, 2017
 ## Tahoe Rim Trail - Day 4

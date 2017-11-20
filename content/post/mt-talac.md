@@ -4,6 +4,7 @@ title: "Mt. Tallac Trail: Out-and-back Day Hike"
 categories:
   - Hiking
   - Day Hikes
+  - USA
 ---
 # Aug 19, 2017
 

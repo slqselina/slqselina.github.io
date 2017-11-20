@@ -4,12 +4,13 @@ date: 2015-12-15T19:29:06-07:00
 categories:
   - Hiking
   - Backpacking
+  - New Zealand
 ---
 ## Dec 1, 2015
 ## Ship Cove->Camp Bay Campsite
 ### 27 km - Overcast/Rainy
 
-{{< figure src="/img/2015/12/ferry-ride.jpg" title="Dolphins" width="100%" >}}
+{{< figure src="/img/2015/12/ferry-ride.jpg"  width="100%" >}}
 
 <!--more-->
 
@@ -19,10 +20,15 @@ We took a ferry from the pier in Picton to the starting point of this hike at Sh
 {{< figure src="/img/2015/12/dophins.jpg" title="Dolphins" >}}
 
 The trail was muddy from  the rain with continuous ups and downs and some bridge crossings but we were rewarded with stunningly beautiful views of the sound every once a while. Even under the bad weather, the ocean still maintained its charming azure.
+
 {{< img-post path="date" file="at-the-trail-head.jpg" type="full-width">}}
+
 {{< img-post path="date" file="azure-water.jpg" type="full-width">}}
+
 {{< img-post path="date" file="bridge-crossing.jpg" type="full-width">}}
+
 {{< img-post path="date" file="overlook-of-queen-charlotte-sound.jpg" type="full-width">}}
+
 {{< img-post path="date" file="trail.jpg" type="full-width">}}
 
 

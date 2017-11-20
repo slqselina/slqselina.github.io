@@ -4,6 +4,7 @@ date: 2017-11-19T19:30:00-07:00
 categories:
   - Hiking
   - Day Hikes
+  - USA
 ---
 ## Nov 18, 2017
 ## Burton Creek State Park

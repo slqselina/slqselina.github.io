@@ -4,6 +4,7 @@ title: "4 Days on Tahoe Rim Trail DAY 1 - Echo Summit -> Kingsbury South"
 categories:
   - Hiking
   - Backpacking
+  - USA
 ---
 ## Aug 11, 2017
 ## Echo Summit -> Round Lake
