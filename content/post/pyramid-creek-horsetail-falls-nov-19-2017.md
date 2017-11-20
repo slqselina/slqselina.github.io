@@ -18,6 +18,7 @@ categories:
 * 15:19pm - Hike back
 * 15:33pm - Take a 10 minutes break by a small waterfall alon the way
 * 16:11pm - Back to the parking
+
 <!--more-->
 
 {{< figure src="/img/2017/11/pyramid-creek-b-sign.jpg" >}}
