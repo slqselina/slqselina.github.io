@@ -21,7 +21,7 @@ categories:
 <!--more-->
 
 {{< figure src="/img/2017/11/pyramid-creek-b-sign.jpg" >}}
-The Pyramid Creek Loop Trail requireslittle time, but provides beautiful waterfall views. The trailhead is right one the side of Lincoln Hwy to the southwest of South Lake Tahoe, about 20 to 30 minutes away.
+The Pyramid Creek Loop Trail takes little time, but provides beautiful views of waterfalls. The trailhead is right one the side of Lincoln Hwy to the southwest of South Lake Tahoe, about 20 to 30 minutes away.
 
 {{< figure src="/img/2017/11/pyramid-creek-c-trail.jpg" >}}
 Some sections of the trail are easy to be lost, so a trail sign can be turn out to be helpful.
