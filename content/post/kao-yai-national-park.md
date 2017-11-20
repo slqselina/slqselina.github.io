@@ -18,7 +18,7 @@ categories:
 
 {{< figure src="/img/2016/6/kao-yai-1800088403560641.jpg" >}}
 
-{{< figure src="/img/2016/6/kao-yai-1800088393560642.jpg" title="all we wanted to do was swim....">}}
+{{< figure src="/img/2016/6/kao-yai-1800088393560642.jpg" title="All we wanted to do was swim....">}}
 
 {{< figure src="/img/2016/6/kao-yai-9800088350227313.jpg" title="Monkeys attacking cars">}}
 
