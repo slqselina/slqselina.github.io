@@ -6,10 +6,10 @@ categories:
   - Day Hikes
   - USA
 ---
+
 {{< figure src="/img/2017/11/pyramid-creek-a-cascade-vista.jpg" >}}
 
 # Nov 19, 2017
-
 ### Trip log:
 * 14:19pm - Start out
 * 14:26pm - First waterfall
