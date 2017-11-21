@@ -11,12 +11,12 @@ categories:
 
 Trip Log:
 
-* 645am - leave bungalow
-* 710am - start hike from the trailhead
-* 1115am - summit
-* 1210pm - start descent
-* 410 pm - complete
-* 630pm - culinary excursion to Chiang Dao Nest
+* 06:45am - leave bungalow
+* 07:10am - start hike from the trailhead
+* 11:15am - summit
+* 12:10pm - start descent
+* 4:10pm - complete
+* 6:30pm - culinary excursion to Chiang Dao Nest
 
 {{< figure src="/img/2016/11/chiang-dao-1.jpg" title="Camp sites below the mountain" >}}
 

@@ -13,7 +13,7 @@ categories:
 Trip Log:
 
 * 12:48pm - start hiking
-* 15:23pm - finish the hike
+* 03:23pm - finish the hike
 
 By the time we arrived at the entrance of Burton Creek State Park it was already noon, so we decided to choose a relatively easier loop following the signs showed on the map: 1-> 15 -> 21-> 19-> 12-> 11 -> 18 -> 8 -> 7 -> 2 -> 1. After passing the Junction 11, we immediately felt the snow on the trail was much thicker. Hiking in the snow is similar to walking on a sandy beach in that to move forward we had to fight harder.
 

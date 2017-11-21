@@ -12,12 +12,12 @@ categories:
 ### Round Lake -> Near Armstrong Pass
 
 #### Trip log:
-* 8:24am - Start out from Round Lake.
-* 9:36am - Scott Lake Junction
-* 9:48am - Highway 89
+* 08:24am - Start out from Round Lake.
+* 09:36am - Scott Lake Junction
+* 09:48am - Highway 89
 * 10:19am - Depart Highway 89/Big Meadow parking lot
-* 14:06pm - Saxon Creek junction
-* 16:45pm - Find our campsite for the night above a spring
+* 02:06pm - Saxon Creek junction
+* 04:45pm - Find our campsite for the night above a spring
 
 ![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/2017/trtday2a.jpg)
 

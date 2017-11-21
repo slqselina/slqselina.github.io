@@ -1,6 +1,6 @@
 ---
 title: "Marble Mountain Wilderness DAY 3"
-date: 2017-7-24T08:32:06-07:00
+date: 2017-7-24T08:32:08-07:00
 categories:
   - Hiking
   - Backpacking
@@ -13,9 +13,9 @@ categories:
 #### Trip log:
 
 
-* 8:43am - Depart Summit Lake
-* 9:48am - Pass Log Lake
-* 9:54am - Calf Lake Trail Junction
+* 08:43am - Depart Summit Lake
+* 09:48am - Pass Log Lake
+* 09:54am - Calf Lake Trail Junction
 * 10:54am - Final Calf Lake Trail Junction
 * 11:59am - Arrive at Calf Lake
 * 12:34pm - Reach Long High Lake

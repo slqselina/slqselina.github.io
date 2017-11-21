@@ -10,12 +10,12 @@ categories:
 
 #### Trip log:
 
-* 7:02am - Start out
-* 7:59am - Breakfast break (stayed longer than actually needed because of the lovely lake view)
-* 8:48am - Move on
+* 07:02am - Start out
+* 07:59am - Breakfast break (stayed longer than actually needed because of the lovely lake view)
+* 08:48am - Move on
 * 10:20am - Summit Mt. Tallac
 * 12:21pm - Hike down
-* 14:45pm - Back to the parking
+* 02:45pm - Back to the parking
 
 {{< figure src="/img/2017/8/mt-tallac-a.jpg" >}}
 Mt. Tallac is known as one of the most popular trails in the Tahoe region and since it was busy summer weekend, we started the hike early in the morning with the goal of avoiding big crowd. To our surprise, we soon encountered a group of young people who were already ready to go back home. They had started between 4am-ish to catch the sunrise!

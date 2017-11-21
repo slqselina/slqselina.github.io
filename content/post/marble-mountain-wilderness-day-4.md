@@ -1,6 +1,6 @@
 ---
-title: "Marble Mountain Wilderness DAY 1"
-date: 2017-7-25T08:32:06-07:00
+title: "Marble Mountain Wilderness DAY 4"
+date: 2017-7-25T08:32:09-07:00
 categories:
   - Hiking
   - Backpacking
@@ -12,9 +12,9 @@ categories:
 
 #### Trip log:
 
-* 8:15am - Start descent from Long High Lake
-* 9:40am - Depart Calf Lake after break
-* 9:51am - Calf Lake to Shackleford Creek Trail Junction
+* 08:15am - Start descent from Long High Lake
+* 09:40am - Depart Calf Lake after break
+* 09:51am - Calf Lake to Shackleford Creek Trail Junction
 * 10:33am - Log Lake / Calf Lake Junction
 * 10:47am - Log Lake / Campbell Lake Loop Junction
 * 11:51am - Finish at Shackleford Creek Trailhead

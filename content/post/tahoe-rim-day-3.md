@@ -12,14 +12,14 @@ categories:
 
 #### Trip log:
 
-* 8:31am - Start out from spring before Armstrong Pass
+* 08:31am - Start out from spring before Armstrong Pass
 * 10:15am - Freel Peak Summit Junction
-* 9:48am - Highway 89
+* 09:48am - Highway 89
 * 10:19am - Depart Highway 89/Big Meadow parking lot
 * 11:15am - Summit Freel Peak - 10,881 ft.
-* 13:41am - After nap on the summit, depart Freel Peak.
-* 14:15am - Back on the TRT
-* 14:41pm - Find a nice campsite next to a stream about 1 mile before Star Lake.
+* 01:41am - After nap on the summit, depart Freel Peak.
+* 02:15am - Back on the TRT
+* 02:41pm - Find a nice campsite next to a stream about 1 mile before Star Lake.
 
 {{< figure src="/img/2017/trtday3b.jpg" >}}
 

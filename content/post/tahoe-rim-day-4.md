@@ -12,9 +12,9 @@ categories:
 
 #### Trip log:
 
-* 7:05am - Start hiking
-* 7:30am - Reach Star Lake
-* 8:52am - Monument Peak Trail Junction
+* 07:05am - Start hiking
+* 07:30am - Reach Star Lake
+* 08:52am - Monument Peak Trail Junction
 * 11:20am - Kingsbury South Trailhead
 
 ![4 Days on Tahoe Rim Trail DAY 4 - Star Lake -> Kingsbury South](/img/2017/trtday4a.jpg)
