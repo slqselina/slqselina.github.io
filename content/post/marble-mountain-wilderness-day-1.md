@@ -6,6 +6,7 @@ categories:
   - Backpacking
   - USA
 ---
+{{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-f-trailhead.jpg">}}
 ## Jul 22, 2017
 ## Shackleford Trailhead -> Cliff Lake
 ### Sunny
@@ -17,8 +18,6 @@ categories:
 * 14:58pm - Arrive at Campbell Lake for late lunch and nap
 * 16:15pm - Depart Campbell Lake - Junction to Log Lake
 * 17:47pm - Arrive at Cliff Lake
-
-{{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-f-trailhead.jpg">}}
 
 <!--more-->
 
