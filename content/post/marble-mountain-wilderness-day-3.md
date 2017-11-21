@@ -1,13 +1,15 @@
 ---
 title: "Marble Mountain Wilderness DAY 3"
-date: 2017-7-24T08:32:08-07:00
+date: 2017-07-24T08:32:08-07:00
 categories:
   - Hiking
   - Backpacking
   - USA
 ---
-## Jul 22, 2017
-## PANG PANG PANG
+{{< figure src="/img/2017/7/marble-mountain-day-3-a.jpg">}}
+
+## Jul 24, 2017
+## Sumit Lake -> Calf Lake -> Long High Lake
 ### Sunny
 
 #### Trip log:
@@ -20,16 +22,26 @@ categories:
 * 11:59am - Arrive at Calf Lake
 * 12:34pm - Reach Long High Lake
 
-{{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-f-trailhead.jpg">}}
+
 
 <!--more-->
 
-{{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-a-river.jpg"  title="Great weather finally" >}}
+{{< figure src="/img/2017/7/marble-mountain-day-3-b.jpg">}}
 
-{{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-b-trail.jpg"  title="Great weather finally" >}}
+{{< figure src="/img/2017/7/marble-mountain-day-3-c.jpg">}}
 
-{{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-c-campbell-lake.jpg"  title="Great weather finally" >}}
+{{< figure src="/img/2017/7/marble-mountain-day-3-d.jpg">}}
 
-{{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-d-cliff-lake.jpg"  title="Great weather finally" >}}
+{{< figure src="/img/2017/7/marble-mountain-day-3-e.jpg">}}
 
-{{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-e-waterfall.jpg"  title="Great weather finally" >}}
+{{< figure src="/img/2017/7/marble-mountain-day-3-f.jpg">}}
+
+{{< figure src="/img/2017/7/marble-mountain-day-3-g.jpg">}}
+
+{{< figure src="/img/2017/7/marble-mountain-day-3-h.jpg">}}
+
+{{< figure src="/img/2017/7/marble-mountain-day-3-i.jpg">}}
+
+{{< figure src="/img/2017/7/marble-mountain-day-3-j.jpg">}}
+
+{{< figure src="/img/2017/7/marble-mountain-day-3-k.jpg">}}
