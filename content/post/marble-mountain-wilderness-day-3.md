@@ -1,22 +1,24 @@
 ---
-title: "Marble Mountain Wilderness DAY 1"
-date: 2017-7-22T08:32:06-07:00
+title: "Marble Mountain Wilderness DAY 3"
+date: 2017-7-24T08:32:06-07:00
 categories:
   - Hiking
   - Backpacking
   - USA
 ---
 ## Jul 22, 2017
-## Shackleford Trailhead -> Cliff Lake
+## PANG PANG PANG
 ### Sunny
 
 #### Trip log:
 
-* 13:08pm - Depart parking area at Shackleford Creek Trailhead
-* 14:22pm - Reach junction for Campbell/Log Lake Loop
-* 14:58pm - Arrive at Campbell Lake for late lunch and nap
-* 16:15pm - Depart Campbell Lake - Junction to Log Lake
-* 17:47pm - Arrive at Cliff Lake
+
+* 8:43am - Depart Summit Lake
+* 9:48am - Pass Log Lake
+* 9:54am - Calf Lake Trail Junction
+* 10:54am - Final Calf Lake Trail Junction
+* 11:59am - Arrive at Calf Lake
+* 12:34pm - Reach Long High Lake
 
 {{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-f-trailhead.jpg">}}
 
