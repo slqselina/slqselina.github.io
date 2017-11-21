@@ -7,7 +7,6 @@ categories:
   - USA
 ---
 ## Nov 18, 2017
-## Burton Creek State Park
 
 {{< figure src="/img/2017/11/burton-creek-a-map.jpg" title="Map showing the trails in the park" >}}
 
