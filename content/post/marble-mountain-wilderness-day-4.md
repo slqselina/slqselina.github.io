@@ -6,6 +6,8 @@ categories:
   - Backpacking
   - USA
 ---
+{{< figure src="/img/2017/7/marble-mountain-day-4-a.jpg">}}
+
 ## Jul 22, 2017
 ## Shackleford Trailhead -> Cliff Lake
 ### Sunny
@@ -19,16 +21,11 @@ categories:
 * 10:47am - Log Lake / Campbell Lake Loop Junction
 * 11:51am - Finish at Shackleford Creek Trailhead
 
-{{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-f-trailhead.jpg">}}
 
 <!--more-->
 
-{{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-a-river.jpg"  title="Great weather finally" >}}
+{{< figure src="/img/2017/7/marble-mountain-day-4-b.jpg">}}
 
-{{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-b-trail.jpg"  title="Great weather finally" >}}
+{{< figure src="/img/2017/7/marble-mountain-day-4-c.jpg">}}
 
-{{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-c-campbell-lake.jpg"  title="Great weather finally" >}}
-
-{{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-d-cliff-lake.jpg"  title="Great weather finally" >}}
-
-{{< figure src="/img/2017/7/marble-mountain-wilderness-day-1-e-waterfall.jpg"  title="Great weather finally" >}}
+{{< figure src="/img/2017/7/marble-mountain-day-4-d.jpg">}}
