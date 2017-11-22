@@ -1,6 +1,6 @@
 ---
 title: "Marble Mountain Wilderness DAY 1"
-date: 2017-7-22T08:32:06-07:00
+date: 2017-07-22T08:32:06-09:00
 categories:
   - Hiking
   - Backpacking

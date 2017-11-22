@@ -1,6 +1,6 @@
 ---
 title: "Marble Mountain Wilderness DAY 3"
-date: 2017-07-24T08:32:08-07:00
+date: 2017-07-24T08:32:08-09:00
 categories:
   - Hiking
   - Backpacking
