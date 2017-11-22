@@ -25,12 +25,12 @@ categories:
 
 <!--more-->
 
-{{< figure src="/img/2017/trtday3c.jpg" >}}
+{{< figure src="/img/2017/8/trtday3c.jpg" >}}
 
-{{< figure src="/img/2017/trtday3d.jpg" >}}
+{{< figure src="/img/2017/8/trtday3d.jpg" >}}
 
-{{< figure src="/img/2017/trtday3e.jpg" >}}
+{{< figure src="/img/2017/8/trtday3e.jpg" >}}
 
-{{< figure src="/img/2017/trtday3f.jpg" >}}
+{{< figure src="/img/2017/8/trtday3f.jpg" >}}
 
-{{< figure src="/img/2017/trtday3g.jpg" >}}
+{{< figure src="/img/2017/8/trtday3g.jpg" >}}

@@ -6,7 +6,7 @@ categories:
   - Backpacking
   - USA
 ---
-![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/2017/trtday2f.jpg)
+![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/2017/8/trtday2f.jpg)
 # Aug 12, 2017
 ## Tahoe Rim Trail - Day 2
 ### Round Lake -> Near Armstrong Pass
@@ -19,14 +19,14 @@ categories:
 * 02:06pm - Saxon Creek junction
 * 04:45pm - Find our campsite for the night above a spring
 
-![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/2017/trtday2a.jpg)
+![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/2017/8/trtday2a.jpg)
 
 <!--more-->
 
-![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/2017/trtday2b.jpg)
+![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/2017/8/trtday2b.jpg)
 
-![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/2017/trtday2c.jpg)
+![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/2017/8/trtday2c.jpg)
 
-![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/2017/trtday2d.jpg)
+![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/2017/8/trtday2d.jpg)
 
-![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/2017/trtday2e.jpg)
+![Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass](/img/2017/8/trtday2e.jpg)
