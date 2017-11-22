@@ -37,4 +37,4 @@ Working on the tent.
 
 {{< img-post path="date" file="queen-charlotte-track-day-2-weka.jpg" type="full-width">}}
 
-Fearless food-chasing bird - Weka.
+Fearless food-chasing bird: Weka.
