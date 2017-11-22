@@ -8,8 +8,8 @@ categories:
 ---
 {{< figure src="/img/2017/7/marble-mountain-day-4-a.jpg">}}
 
-## Jul 22, 2017
-## Shackleford Trailhead -> Cliff Lake
+## Jul 25, 2017
+## Long High Lake -> Shackleford Trailhead
 ### Sunny
 
 #### Trip log:
@@ -19,7 +19,7 @@ categories:
 * 09:51am - Calf Lake to Shackleford Creek Trail Junction
 * 10:33am - Log Lake / Calf Lake Junction
 * 10:47am - Log Lake / Campbell Lake Loop Junction
-* 11:51am - Finish at Shackleford Creek Trailhead
+* 11:51am - Finish at Shackleford Trailhead
 
 
 <!--more-->
