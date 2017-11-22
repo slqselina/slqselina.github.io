@@ -23,28 +23,28 @@ categories:
 <!--more-->
 
 {{< figure src="/img/2017/7/marble-mountain-day-2-b.jpg">}}
-We woke up early to watch the sunrise while having warm breakfast to keep out the cold. Then we took a walk along the bank of the lake and palyed with the unmelted snow from last winter. "Hey, are we really in summer?"
+We woke up early to watch the sunrise and had a warm breakfast. Then we took a walk along the bank of the lake and played in the unmelted snow from last winter. "Hey, is it really summer?"
 
 {{< figure src="/img/2017/7/marble-mountain-day-2-c.jpg">}}
-From certain angle Cliff Lake didn't appear as bleak as yesterday late afternoon, probably because of the glare of the morning sun.
+From certain angle Cliff Lake didn't appear as bleak as the previous evening, probably because of the glare of the morning sun.
 
 
 {{< figure src="/img/2017/7/marble-mountain-day-2-d.jpg">}}
-When hearing the name "Summit Lake", we automatically depicted in our mind a secluded alpine lake located on topo of one of the lofty mountains and thus were prepared to hike up a lot. However, the trail turned out to be short and mostly level.
+When hearing the name "Summit Lake", we automatically imagined a secluded alpine lake located on atop a lofty mountain. We were prepared for a vertical hike. However, the trail turned out to be short and mostly level.
 
 
 {{< figure src="/img/2017/7/marble-mountain-day-2-e.jpg">}}
-Ok, so Summit Lake isn't at the summit. But we still like it. When there is no wind, the lake perfectly reflects the rocky mountains surrounding it like a mirror.
+Ok, so Summit Lake isn't at the summit. But we still like it. When there is no wind, the lake perfectly reflects the surrounding rocky mountains.
 
 
 {{< figure src="/img/2017/7/marble-mountain-day-2-f.jpg">}}
-Dark salamanders and small fish were playing hide-and-seek in the lake, blue and red dragonflies perching on the exuberant grass grown at the bank, bluejays poping and chirping briskly in the pinery, while a naughty chipmunk was trying to steal our food laying on the ground and of course we didn't allow it.
+Dark salamanders and small fish were playing hide-and-seek in the lake as blue and red dragonflies perching on the exuberant grass grown at the bank.  Bluejays pop and chirp briskly in the pinery, while a naughty chipmunk was trying to steal dropping of our food and of course we didn't allow it.
 
 {{< figure src="/img/2017/7/marble-mountain-day-2-h.jpg">}}
-"Let's call it a day and just chill out here!" Hiking is not always about how many miles accomplished or how many destinations checked, sometimes slowing down the paces allows us to appreciate more subtle, tiny detailes in the nature which are no less beautiful and inspiring.  
+"Let's call it a day and just chill out here!" Hiking is not always about how many miles accomplished or bucket lists checked off, sometimes slowing down the pace allows us to appreciate subtle, tiny details of the nature and be inspired by the beauty.
 
 {{< figure src="/img/2017/7/marble-mountain-day-2-g.jpg">}}
-We were having a good time snacking, napping, readding books and strolling around at the campsite by the lake. Kevy even jumped into the lake and swimmed for a while. Later, other 2 or 3 lone hiker also came to camp by the lake. We saluted one another and exchanged infomation.
+We were having a good time snacking, napping, reading books and strolling around the campsite by the lake. Kevy even jumped into the lake and swam for a while. Later, other hikers also came to camp by the lake. We saluted one another and exchanged information.
 
 {{< figure src="/img/2017/7/marble-mountain-day-2-i.jpg">}}
-During the chatting this energetic lady Barb from Bay Area who was probably at her 60 or 70 s and doing a PCT section mentioned: “The world is big and wonderful. I'm trying my best to see as much as possible before I'm gone.” That's exactly what we were thinking too!
+While chatting with an energetic lady named Barb from the Bay Area who was probably 60 or 70 and doing a PCT section, she mentioned: “The world is big and wonderful. I'm trying my best to see as much as possible before I'm gone.” That's exactly what we were thinking too!

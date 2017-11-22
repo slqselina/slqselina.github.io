@@ -27,29 +27,29 @@ categories:
 <!--more-->
 
 {{< figure src="/img/2017/7/marble-mountain-day-3-b.jpg">}}
-Our original plan was to spend the third night by Log Lake, luckily some hiker we ths second day informed us that it was not worth it. It was confirmed by our own eyes: it was more like a dead pond rather than a lake, with a bunch of logs floating on it. There was no source of running water nearby, nor much to see. We moved on without a bit of hesitation.
+Our original plan was to spend the third night by Log Lake, luckily another hiker we met on the second day informed us that it was not worth it. This was confirmed by our own eyes: it looked more like a dead pond rather than a lake. There was no source of running water nearby and not much to do or see. We moved on without a moments hesitation.
 
 {{< figure src="/img/2017/7/marble-mountain-day-3-c.jpg">}}
-It took us quite a while to get to Calf Lake Junction. There was a lot of strenuous ascending, so we took several breaks. "Look at these giant fungus! They look almost unreal!" Nature Mother is indeed full of all kinds of surprises.
+It took us quite a while to get to the Calf Lake Junction. It was a strenuous ascent so we took several breaks. "Look at these giant fungus! They look almost unreal!" Mother Nature is indeed full of all kinds of surprises.
 
 {{< figure src="/img/2017/7/marble-mountain-day-3-d.jpg">}}
-When we were getting close to Calf Lake, the piny landscape suddenly switches to an overgrown alpine meadow carpeted with wild flowers.
+When we were getting close to Calf Lake, the piny landscape suddenly switched to an overgrown alpine meadow carpeted with wild flowers.
 
 
 {{< figure src="/img/2017/7/marble-mountain-day-3-e.jpg">}}
 Look what we found at Calf Lake! This chubby guy!
 
 {{< figure src="/img/2017/7/marble-mountain-day-3-f.jpg">}}
-We were not the only ones hiking towards Calf Lake. We several times ran into this mysterious cool hiker from Santa Cruz, Scott, who also camped at Summit Lake last night. He must like Marble Mountain Wilderness a lot, because he said he often came back here and just explored by memory (which means no use of any map!). We said wanted to check the Long High Lake marked on our map, which is located just above one of the mountains by Calf Lake. He told us that he read enough infomation to assure that Long High Lake was accessible even though there was no official trail indicated. He himself was about to check it for the first time too.
+We were not the only ones hiking towards Calf Lake. We ran into this mysterious cool hiker from Santa Cruz, Scott, who had also camped at Summit Lake the previous night. He must like Marble Mountain Wilderness a lot, because he said he often returns and just explores by memory (which means no use of any map!). We said that we wanted to check out Long High Lake which is located just above one of the mountains by Calf Lake. He told us that he had read enough information to assure us that Long High Lake was accessible even though there was no official trail. He himself was about to check it for the first time too.
 
 {{< figure src="/img/2017/7/marble-mountain-day-3-g.jpg">}}
-Scrambling up towards Long High Lake was kind of an adventure and we were guessing our way. Once ascendin to certain hight, we were able to overlook the entire Calf Lake.
+Scrambling up towards Long High Lake was kind of an adventure and we were guessing our way. After ascending to certain altitude, we were able to overlook the entire Calf Lake.
 
 {{< figure src="/img/2017/7/marble-mountain-day-3-h.jpg">}}
 Majestic snow-capped Mt. Shasta was also visible from afar.
 
 {{< figure src="/img/2017/7/marble-mountain-day-3-i.jpg">}}
-We and Scott met again by Long High Lake through different routes. Around the lake was a large oasis of lush green plants and a small campground, where we decided to camp. The lake is quite high, but is it really as long as it sounds? Well, later we learnt from Scott that there is another tiny unnamed lake a bit higher than where we were, which provides a panoramic view of Long High Lake. After a long chill-out and when Scott already went down to camp Calf Lake, we checked the anonymous dinky lake.
+We ran into Scott again at Long High Lake through a different routes. Around the lake was a large oasis of lush green plants and a small campground where we decided to camp. The lake is quite high, but is it really as long as it sounds? Well, later we learnt from Scott that there is another tiny unnamed lake a bit higher than where we were, which provides a panoramic view of Long High Lake. After a long chill-out and saying goodbye to Scott who wanted to camp at Calf Lake, we checked the anonymous dinky lake.
 
 {{< figure src="/img/2017/7/marble-mountain-day-3-j.jpg">}}
 There was a huge snow patch at the bank constantly dripping water into the lake (or pond?).
