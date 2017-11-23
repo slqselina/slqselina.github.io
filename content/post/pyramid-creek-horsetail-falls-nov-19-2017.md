@@ -1,6 +1,6 @@
 ---
 title: "Pyramid Creek Geological Area"
-date: "2017-11-20T20:29:34-07:00"
+date: "2017-11-19T20:29:34-07:00"
 categories:
   - Hiking
   - Day Hikes

@@ -1,5 +1,5 @@
 ---
-date: "2017-08-17T20:39:34-07:00"
+date: "2017-08-14T20:39:34-07:00"
 title: "4 Days on Tahoe Rim Trail DAY 4 - Star Lake -> Kingsbury South"
 categories:
   - Hiking

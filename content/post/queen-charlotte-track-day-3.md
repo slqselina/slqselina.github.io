@@ -1,6 +1,6 @@
 ---
 title: "Queen Charlotte Track DAY 3"
-date: 2015-12-15T19:31:06-07:00
+date: 2015-12-03T19:31:06-07:00
 categories:
   - Hiking
   - Backpacking

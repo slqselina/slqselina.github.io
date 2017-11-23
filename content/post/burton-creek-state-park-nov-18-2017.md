@@ -1,12 +1,12 @@
 ---
 title: Burton Creek State Park
-date: 2017-11-19T19:30:00-07:00
+date: 2017-11-18T19:30:00-07:00
 categories:
   - Hiking
   - Day Hikes
   - USA
 ---
-## Nov 18, 2017
+
 
 {{< figure src="/img/2017/11/burton-creek-a-map.jpg" title="Map showing the trails in the park" >}}
 
