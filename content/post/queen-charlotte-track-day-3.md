@@ -6,7 +6,7 @@ categories:
   - Backpacking
   - New Zealand
 ---
-## Dec 3, 2015
+
 ## Black Rick->Mistletoe Bay Eco Lodge
 ### 13 km - Overcast/Rainy
 

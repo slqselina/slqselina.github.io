@@ -7,7 +7,7 @@ categories:
   - USA
 ---
 {{< figure src="/img/2017/7/marble-mountain-day-2-a.jpg">}}
-## Jul 23, 2017
+
 ## Cliff-Lake -> Summit Lake
 ### Sunny
 

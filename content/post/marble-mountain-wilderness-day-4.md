@@ -8,7 +8,7 @@ categories:
 ---
 {{< figure src="/img/2017/7/marble-mountain-day-4-a.jpg">}}
 
-## Jul 25, 2017
+
 ## Long High Lake -> Shackleford Trailhead
 ### Sunny
 

@@ -1,12 +1,12 @@
 ---
 date: "2017-08-11T20:19:34-07:00"
-title: "4 Days on Tahoe Rim Trail DAY 1 - Echo Summit -> Kingsbury South"
+title: "4 Days on Tahoe Rim Trail DAY 1"
 categories:
   - Hiking
   - Backpacking
   - USA
 ---
-## Aug 11, 2017
+
 ## Echo Summit -> Round Lake
 
 09:45am - Depart echo summit trailhead near Hwy 50

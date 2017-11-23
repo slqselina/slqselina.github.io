@@ -8,7 +8,7 @@ categories:
 ---
 {{< figure src="/img/2017/7/marble-mountain-day-3-a.jpg">}}
 
-## Jul 24, 2017
+
 ## Sumit Lake -> Calf Lake -> Long High Lake
 ### Sunny
 

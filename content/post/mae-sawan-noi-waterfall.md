@@ -1,14 +1,12 @@
 ---
-title: Mae Sawan Noi Waterfall
+title: Mae Sawan Noi Waterfall (Outside Mae Sariang District, Mae Hong Son)
 date: 2016-11-12T19:30:00-07:00
 categories:
   - Hiking
   - Day Hikes
   - Thailand
 ---
-## Nov 12, 2016
-## Mae Sawan Noi Waterfall -
-### Outside Mae Sariang District, Mae Hong Son
+
 
 {{< figure src="/img/2016/11/mae-sariang-1871732439729570.jpg" title="Warning: there are snakes at this location" >}}
 

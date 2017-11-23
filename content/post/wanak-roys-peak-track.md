@@ -1,13 +1,11 @@
 ---
 title: "Roy's Peak Track"
-date: 2015-12-16T19:32:06-07:00
+date: 2015-12-10T19:32:06-07:00
 categories:
   - Hiking
   - Day Hikes
   - New Zealand
 ---
-## Dec 10, 2015
-
 
 {{< figure src="/img/2015/12/wanaka-roys-peak-track-a.jpg">}}
 
