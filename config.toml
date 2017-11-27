@@ -6,7 +6,8 @@ preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = ""
 googleAnalytics = "UA-89104470-2"
-
+[permalinks]
+    post = "/:year/:month/:title/"
 [params]
     # Sets the meta tag description, usually reserved for the main page
     description          = "ENGLISH-SU.COM - Adventures of Kevin and Aki"
