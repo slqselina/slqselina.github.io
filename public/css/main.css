@@ -2314,6 +2314,9 @@ dl dd {
 .post > .image.featured {
   overflow: hidden
 }
+.post img {
+  max-width: 100%;
+}
 .post > .image.featured img {
   -moz-transition: -moz-transform .2s ease-out;
   -webkit-transition: -webkit-transform .2s ease-out;
