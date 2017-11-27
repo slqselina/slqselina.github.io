@@ -12,7 +12,7 @@ categories:
 
 <!--more-->
 
-{{< figure src="/img/2016/11/mae-sariang-1871732379729576.jpg" title="" >}}
-{{< figure src="/img/2016/11/mae-sariang-1871732246396256.jpg" title="" >}}
-{{< figure src="/img/2016/11/mae-sariang-1871732523062895.jpg" title="" >}}
-{{< figure src="/img/2016/11/mae-sariang-1871732393062908.jpg" title="" >}}
+{{< figure src="/img/2016/11/mae-sariang-1871732379729576.jpg"  >}}
+{{< figure src="/img/2016/11/mae-sariang-1871732246396256.jpg"  >}}
+{{< figure src="/img/2016/11/mae-sariang-1871732523062895.jpg"  >}}
+{{< figure src="/img/2016/11/mae-sariang-1871732393062908.jpg"  >}}
