@@ -6,7 +6,7 @@ categories:
   - Backpacking
   - New Zealand
 ---
-## Dec 4, 2015
+
 ## Mistletoe Bay Eco Lodge->Anakiwa
 ### 12.5 km - Sunny
 

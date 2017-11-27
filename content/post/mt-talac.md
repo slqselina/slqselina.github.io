@@ -6,7 +6,6 @@ categories:
   - Day Hikes
   - USA
 ---
-# Aug 19, 2017
 
 #### Trip log:
 

@@ -1,14 +1,12 @@
 ---
 date: "2017-08-12T20:19:34-07:00"
-title: "4 Days on Tahoe Rim Trail DAY 2 - Round Lake -> Armstrong Pass"
+title: "4 Days on Tahoe Rim Trail DAY 2"
 categories:
   - Hiking
   - Backpacking
   - USA
 ---
 {{< figure src="/img/2017/8/trtday2f.jpg" >}}
-# Aug 12, 2017
-## Tahoe Rim Trail - Day 2
 ### Round Lake -> Near Armstrong Pass
 
 #### Trip log:

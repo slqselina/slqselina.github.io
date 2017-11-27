@@ -1,13 +1,12 @@
 ---
 date: "2017-08-13T20:29:34-07:00"
-title: "4 Days on Tahoe Rim Trail DAY 3 - Armstrong Pass -> Star Lake"
+title: "4 Days on Tahoe Rim Trail DAY 3"
 categories:
   - Hiking
   - Backpacking
   - USA
 ---
-# Aug 13, 2017
-## Tahoe Rim Trail - Day 3
+
 ### Armstrong Pass -> Star Lake
 
 #### Trip log:

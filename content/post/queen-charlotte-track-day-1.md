@@ -6,7 +6,7 @@ categories:
   - Backpacking
   - New Zealand
 ---
-## Dec 1, 2015
+
 ## Ship Cove->Camp Bay Campsite
 ### 27 km - Overcast/Rainy
 

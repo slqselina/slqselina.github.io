@@ -9,7 +9,6 @@ categories:
 
 {{< figure src="/img/2017/11/pyramid-creek-a-cascade-vista.jpg" >}}
 
-# Nov 19, 2017
 ### Trip log:
 * 02:19pm - Start out
 * 02:26pm - First waterfall

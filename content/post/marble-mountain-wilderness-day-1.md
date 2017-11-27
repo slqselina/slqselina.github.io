@@ -7,7 +7,7 @@ categories:
   - USA
 ---
 {{< figure src="/img/2017/7/marble-mountain-day-1-f-trailhead.jpg">}}
-## Jul 22, 2017
+
 ## Shackleford Trailhead -> Cliff Lake
 ### Sunny
 

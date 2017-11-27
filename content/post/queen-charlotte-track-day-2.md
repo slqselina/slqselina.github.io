@@ -1,12 +1,12 @@
 ---
 title: "Queen Charlotte Track DAY 2"
-date: 2015-12-03T19:30:06-07:00
+date: 2015-12-02T19:30:06-07:00
 categories:
   - Hiking
   - Backpacking
   - New Zealand
 ---
-## Dec 2, 2015
+
 ## Camp Bay Campsite->Black Rock Campsite
 ### 18 km - Overcast/Rainy
 
