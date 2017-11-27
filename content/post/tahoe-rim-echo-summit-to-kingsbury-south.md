@@ -24,18 +24,18 @@ categories:
 05:49pm - Arrive at Round Lake and setup camp
 
 
-![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/2017/8/trtday1a.jpg)
+{{< figure src="/img/2017/8/trtday1a.jpg" >}}
 
 <!--more-->
 
-![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/2017/8/trtday1b.jpg)
+{{< figure src="/img/2017/8/trtday1b.jpg" >}}
 
-![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/2017/8/trtday1c.jpg)
+{{< figure src="/img/2017/8/trtday1c.jpg" >}}
 
-![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/2017/8/trtday1d.jpg)
+{{< figure src="/img/2017/8/trtday1d.jpg" >}}
 
-![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/2017/8/trtday1e.jpg)
+{{< figure src="/img/2017/8/trtday1e.jpg" >}}
 
-![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/2017/8/trtday1f.jpg)
+{{< figure src="/img/2017/8/trtday1f.jpg" >}}
 
-![Tahoe Rim Trail - Echo Summit to Kingsbury South - 4 days](/img/2017/8/trtday1g.jpg)
+{{< figure src="/img/2017/8/trtday1g.jpg" >}}
