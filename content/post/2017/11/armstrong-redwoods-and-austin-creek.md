@@ -10,14 +10,28 @@ categories:
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-a.jpg" title="" >}}
 
+<p>
+<p>
+
+Pool Ridge Trail - Discovery Trail-Pioneer Nature Trail-East Ridge Trail - Gilliam Creek Trail
+
 Trip Log:
 
-* 12:48pm - start hiking
-* 03:23pm - finish the hike
+* 09:45am - start out from Pool Ridge Trailhead
+* 10:19am - reach the junction with Loop Trail but somehow walked towards a private land by mistake
+* 10:34am - back to the Pool Ridge Trailhead
+* 11:16am - reach the Colonel Armstrong Tree and break
+* 11:40am - move on to Discovery Trail and Pioneer Nature Trail
+* 11:52am - reach Visitor Center and hangout There
+* 12:03pm - start the East Ridge Trailhead
+* 12:24pm - break (Kevy bothered to take out from his backpack the gas, pan and cup to boil water and make a hot coffee!)
+* 12:51pm - move on
+* 01:53pm - finish East Ridage Trail and start the Gilliam Creek Trail
+* 02:49pm - hit Schoolhouse creek
+* 03:28pm - hit East Austin Creek Fire Road
+* 04:02pm - start to ascend to Vista point
+* 04:10pm - find a nice spot to watch the sunset and call it a day
 
-By the time we arrived at the entrance of Burton Creek State Park it was already noon, so we decided to choose a relatively easier loop following the signs showed on the map: 1-> 15 -> 21-> 19-> 12-> 11 -> 18 -> 8 -> 7 -> 2 -> 1. After passing the Junction 11, we immediately felt the snow on the trail was much thicker. Hiking in the snow is similar to walking on a sandy beach in that to move forward we had to fight harder.
-
-This trail bears no drastic altitude change, so we still calmly took time to play in the snow and eat some food. Next time we want to try one of the trails that leads to a scenic overlook, which should be more challenging.
 <!--more-->
 
 {{< figure src="/img/2017/11/burton-creek-b-kev-in-snow.jpg" title="Who is this fallen angel?" >}}
