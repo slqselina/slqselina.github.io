@@ -13,7 +13,7 @@ categories:
 <p>
 <p>
 
-Pool Ridge Trail - Discovery Trail-Pioneer Nature Trail-East Ridge Trail - Gilliam Creek Trail
+Pool Ridge Trail / Discovery Trail / Pioneer Nature Trail / East Ridge Trail / Gilliam Creek Trail
 
 Trip Log:
 
