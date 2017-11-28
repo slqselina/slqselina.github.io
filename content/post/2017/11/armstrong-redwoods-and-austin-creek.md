@@ -20,7 +20,7 @@ Trip Log:
 * 09:45am - start out from Pool Ridge Trailhead
 * 10:19am - reach the junction with Loop Trail but somehow walked towards a private land by mistake
 * 10:34am - back to the Pool Ridge Trailhead
-* 11:16am - reach the Colonel Armstrong Tree and break
+* 11:16am - reach Armstrong Redwood Grove and break
 * 11:40am - move on to Discovery Trail and Pioneer Nature Trail
 * 11:52am - reach Visitor Center and hangout There
 * 12:03pm - start the East Ridge Trailhead
@@ -34,13 +34,27 @@ Trip Log:
 
 <!--more-->
 
-{{< figure src="/img/2017/11/burton-creek-b-kev-in-snow.jpg" title="Who is this fallen angel?" >}}
-{{< figure src="/img/2017/11/burton-creek-c-trail.jpg" title="We leave the first footprints on the fresh snow along 11 ->18 -> 8" >}}
-{{< figure src="/img/2017/11/burton-creek-d-river.jpg" title="Burton creek is still running swiftly even though its banks are quite snowed-in" >}}
-{{< figure src="/img/2017/11/burton-creek-e-tree.jpg" title=" Icy drops of water twinkle in the sun radiating colorful rays like diamonds, a beautiful scene hard to be captured by a pocket camera" >}}
-{{< figure src="/img/2017/11/burton-creek-f-aki-in-snow.jpg" title="Playing in the snow" >}}
-{{< figure src="/img/2017/11/burton-creek-g-meadow.jpg" title="Part of Antone Meadow flooded by melted snow looks like a lake" >}}
-{{< figure src="/img/2017/11/burton-creek-i-trail.jpg" title="Though snow is everywhere, we barely felt cold during the hike because our bodies warmed up quickly" >}}
-{{< figure src="/img/2017/11/burton-creek-h-ice.jpg" title="A few puddles turned ice patches are also along the way" >}}
+Armstrong Redwoods State Natural Reserve was never in our top list if not because we happened to spend this Thanksgiving in Sacramento, and we didn't know it borders right with Austin Creek State Recreation Area until arriving at the Reserve's entrance. Though comparing other redwood parks we have been to Armstrong Redwood Grove was quite a small one, the whole area is an easy nice getaway from big cities (like Sacramento or San Francisco) with several trails possible to be done in one day, which provide contrasting landscapes and abound with wildlife (including rattle snakes and mountain lions, luckily we didn't run into the latter one). No wonder the campground and the redwood grove turned out to be extremely busy during the holiday.
 
-See also, [Afoot and Afield: Tahoe-Reno](https://www.amazon.com/Afoot-Afield-Tahoe-Reno-Spectacular-Outings/dp/089997791X) pages 135-136
+{{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-b.jpg" title="" >}}
+Just a few paces after Pool Ridge Trailhead, an idyllic misty mountain scene quickly unfolded in front of us. 
+
+{{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-c.jpg" title="" >}}
+{{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-d.jpg" title="" >}}
+{{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-e.jpg" title="" >}}
+{{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-f.jpg" title="" >}}
+{{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-g.jpg" title="" >}}
+{{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-h.jpg" title="" >}}
+{{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-i.jpg" title="" >}}
+{{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-j.jpg" title="" >}}
+{{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-k.jpg" title="" >}}
+{{< figure src="/img/2017/11/1.jpg" title="" >}}
+{{< figure src="/img/2017/11/2.jpg" title="" >}}
+{{< figure src="/img/2017/11/3.jpg" title="" >}}
+{{< figure src="/img/2017/11/3.jpg" title="" >}}
+{{< figure src="/img/2017/11/4.jpg" title="" >}}
+{{< figure src="/img/2017/11/5.jpg" title="" >}}
+{{< figure src="/img/2017/11/6.jpg" title="" >}}
+{{< figure src="/img/2017/11/7.jpg" title="" >}}
+{{< figure src="/img/2017/11/8.jpg" title="" >}}
+{{< figure src="/img/2017/11/9.jpg" title="" >}}
