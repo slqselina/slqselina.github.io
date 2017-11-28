@@ -34,12 +34,16 @@ Trip Log:
 
 <!--more-->
 
-Armstrong Redwoods State Natural Reserve was never in our top list if not because we happened to spend this Thanksgiving in Sacramento, and we didn't know it borders right with Austin Creek State Recreation Area until arriving at the Reserve's entrance. Though comparing other redwood parks we have been to Armstrong Redwood Grove was quite a small one, the whole area is an easy nice getaway from big cities (like Sacramento or San Francisco) with several trails possible to be done in one day, which provide contrasting landscapes and abound with wildlife (including rattle snakes and mountain lions, luckily we didn't run into the latter one). No wonder the campground and the redwood grove turned out to be extremely busy during the holiday.
+Armstrong Redwoods State Natural Reserve was never in our top list if not because we happened to spend this Thanksgiving in Sacramento, and we didn't know it borders right with Austin Creek State Recreation Area until arriving at the Reserve's entrance. Though comparing other redwood parks we have been to Armstrong Redwood Grove was quite a small one, the whole area is an easy nice getaway from big cities (like Sacramento or San Francisco) with several trails possible to be done in one day, which provide contrasting landscapes and abound with wildlife (including rattle snakes and mountain lions, luckily we didn't run into the latter one). No wonder the campground and the redwood grove turned out to be extremely busy during the holiday. We first combined Pool Ridge Trail with East Ridge Trail as a 5.6 mile loop, then took part of Gilliam Creek Trail right across the road from Pool Ridge Trailhead and kind of looped back to the vista point nearby where we camped, which added up approximately 3.6 more miles.
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-b.jpg" title="" >}}
-Just a few paces after Pool Ridge Trailhead, an idyllic misty mountain scene quickly unfolded in front of us. 
+Just a few paces after Pool Ridge Trailhead, an idyllic misty mountain scene quickly unfolded in front of us. Didn't expect this!
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-c.jpg" title="" >}}
+The way down to the redwood grove is mostly effortless descending, which means an equal amount of ascending to be occuring later while completing the loop, not that easy ...
+
+{{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-n.jpg" title="" >}}
+
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-d.jpg" title="" >}}
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-e.jpg" title="" >}}
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-f.jpg" title="" >}}
