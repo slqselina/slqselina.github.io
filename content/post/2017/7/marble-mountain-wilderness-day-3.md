@@ -49,7 +49,7 @@ Scrambling up towards Long High Lake was kind of an adventure and we were guessi
 Majestic snow-capped Mt. Shasta was also visible from afar.
 
 {{< figure src="/img/2017/7/marble-mountain-day-3-i.jpg">}}
-We ran into Scott again at Long High Lake through a different routes. Around the lake was a large oasis of lush green plants and a small campground where we decided to camp. The lake is quite high, but is it really as long as it sounds? Well, later we learnt from Scott that there is another tiny unnamed lake a bit higher than where we were, which provides a panoramic view of Long High Lake. After a long chill-out and saying goodbye to Scott who wanted to camp at Calf Lake, we checked the anonymous dinky lake.
+We ran into Scott again at Long High Lake. He had come from a different route. Around the lake was a large oasis of lush green plants and a small campground where we decided to camp. The lake is quite high, but is it really as long as it sounds? Well, later we learnt from Scott that there is another tiny unnamed lake a bit higher than where we were, which provides a panoramic view of Long High Lake. After a long chill-out and saying goodbye to Scott who wanted to camp at Calf Lake, we checked the anonymous dinky lake.
 
 {{< figure src="/img/2017/7/marble-mountain-day-3-j.jpg">}}
 There was a huge snow patch at the bank constantly dripping water into the lake (or pond?).
