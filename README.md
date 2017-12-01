@@ -28,9 +28,11 @@ Pull subtree
 ```
 git subtree pull --prefix=public git@github.com:slqselina/slqselina.github.io.git master
 ```
+
 Generate site
 ```
-hugo -t hugo-future-imperfect
+rm -R public/* && hugo -t hugo-future-imperfect
+
 ```
 Add everything
 ```
