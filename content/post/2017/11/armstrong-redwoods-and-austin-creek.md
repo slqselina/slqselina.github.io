@@ -5,6 +5,7 @@ categories:
   - Hiking
   - Day Hikes
   - USA
+draft: true  
 ---
 
 
