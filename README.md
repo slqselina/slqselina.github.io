@@ -31,16 +31,13 @@ git subtree pull --prefix=public git@github.com:slqselina/slqselina.github.io.gi
 
 Generate site
 ```
-rm -R public/* && hugo -t hugo-future-imperfect
-
-```
-Add everything
-```
-git add -A
+rm -R public/*
+git co public/CNAME
+hugo -t hugo-future-imperfect
 ```
 Commit and push
 ```
-git commit -m "Site Deploy for master `date "+%Y-%m-%d-%H%M%S"`" && git push origin hugo
+git commit -a -m "Site Deploy for master `date "+%Y-%m-%d-%H%M%S"`" && git push origin hugo
 ```
 Push subtree
 ```
