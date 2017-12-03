@@ -1,7 +1,7 @@
 ---
 title: Armstrong Redwoods State Natural Reserve & Austin Creek State Recreation Area
 date: 2017-11-30T20:14:24-08:00
-publishdate: 2018-11-30T20:14:24-08:00
+draft: true
 categories:
   - Hiking
   - Day Hikes
