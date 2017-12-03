@@ -40,10 +40,14 @@ From High Meadows we were able to gaze at various snow-capped peaks in Tahoe, in
 Here can be a nice plce to chill-out and read in summer and fall.  After studying the map, we decided to move on to Monument Pass Trail to get more exercise.
 
 {{< figure src="/img/2017/12/cold-creek-trail-g.jpg" >}}
-With the vegetation getting sparser along the trail, some big pine trees stand out, with trunks and branches nicely curved as bigger versions of bonsai.
 
 {{< figure src="/img/2017/12/cold-creek-trail-h.jpg" >}}
+With the vegetation getting sparser along the trail, some big pine trees stand out, with trunks and branches nicely curved as bigger versions of bonsai.
+
+{{< figure src="/img/2017/12/cold-creek-trail-j.jpg" >}}
 Because the snow on Monument Pass Trail becomes thicker and thicker with the increase of altitude, eventually we gave up moving forward and climbed up to the top of a huge pile of rocks to rest and enjoy the mountain view.
 
 {{< figure src="/img/2017/12/cold-creek-trail-i.jpg" >}}
 It's always nice to have a warm coffee during winter hikes. "Honey, you see that peak? We were there this summer..."
+
+PS: Cold Creek Trail is also a mountain bike trail, so be aware of bikes when walking!
