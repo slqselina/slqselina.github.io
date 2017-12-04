@@ -2980,8 +2980,10 @@ body.is-menu-visible #menu {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   text-align: center;
-  display: block
+  display: block;
+  border-bottom: 0px;
 }
+
 .article-nav-link-wrap:hover {
   color: #111
 }
