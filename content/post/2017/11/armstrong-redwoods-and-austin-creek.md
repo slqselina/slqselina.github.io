@@ -1,7 +1,6 @@
 ---
-title: Armstrong Redwoods State Natural Reserve & Austin Creek State Recreation Area
+title: Armstrong Redwoods State Natural Reserve and Austin Creek State Recreation Area
 date: 2017-11-30T20:14:24-08:00
-draft: true
 categories:
   - Hiking
   - Day Hikes
@@ -17,30 +16,32 @@ Pool Ridge Trail / Discovery Trail / Pioneer Nature Trail / East Ridge Trail / G
 
 Trip Log:
 
-* 09:45am - start out from Pool Ridge Trailhead
-* 10:19am - reach the junction with Loop Trail but somehow walked towards a private land by mistake
-* 10:34am - back to the Pool Ridge Trailhead
-* 11:16am - reach Armstrong Redwood Grove and break
-* 11:40am - move on to Discovery Trail and Pioneer Nature Trail
-* 11:52am - reach Visitor Center and hangout There
-* 12:03pm - start the East Ridge Trailhead
-* 12:24pm - break (Kevy bothered to take out from his backpack the gas, pan and cup to boil water and make a hot coffee!)
-* 12:51pm - move on
-* 01:53pm - finish East Ridge Trail and start the Gilliam Creek Trail
-* 02:49pm - hit Schoolhouse creek
-* 03:28pm - hit East Austin Creek Fire Road
-* 04:02pm - start to ascend to Vista point
-* 04:10pm - find a nice spot to watch the sunset and call it a day
+* 09:45am - Start out from Pool Ridge Trailhead
+* 10:19am - Reach the junction with Loop Trail but somehow walked into private property by mistake (_oops_)
+* 10:34am - Back to the Pool Ridge Trailhead
+* 11:16am - Reach Armstrong Redwood Grove and break
+* 11:40am - Move on to Discovery Trail and Pioneer Nature Trail
+* 11:52am - Reach Visitor Center and have a look around the gift shop
+* 12:03pm - Start the East Ridge Trailhead
+* 12:24pm - Break (Kevy bothered to take out from his backpack the gas, pan and cup to boil water and make a hot coffee!)
+* 12:51pm - Move on
+* 01:53pm - Finish East Ridge Trail and start the Gilliam Creek Trail
+* 02:49pm - Hit Schoolhouse creek
+* 03:28pm - Hit East Austin Creek Fire Road
+* 04:02pm - Start assent to Vista point
+* 04:10pm - Find a nice spot to watch the sunset and call it a day
 
 <!--more-->
 
-Armstrong Redwoods State Natural Reserve was never in our top list if not because we happened to spend this Thanksgiving in Sacramento, and we didn't know it borders right with Austin Creek State Recreation Area until arriving at the Reserve's entrance. Though comparing other redwood parks we have been to Armstrong Redwood Grove was quite a small one, the whole area makes an easy nice getaway from big cities (like Sacramento or San Francisco) with several trails possible to be done in one day, which provide contrasting landscapes and abound with wildlife (including rattle snakes and mountain lions, luckily we didn't run into the latter one). No wonder the campground and the redwood grove turned out to be extremely busy during the holiday. We first combined Pool Ridge Trail with East Ridge Trail as a 5.6 mile loop, then took part of Gilliam Creek Trail right across the road from Pool Ridge Trailhead and kind of looped back to the vista point nearby where we camped, which added up approximately 3.6 more miles.
+Armstrong Redwoods State Natural Reserve was never on our radar but we we happened to spend Thanksgiving in Sacramento and this [CA state park](https://www.parks.ca.gov/?page_id=452) is only about 3 hours west. Compared to other redwood parks that we've visited, [Armstrong Redwoods Grove](https://www.parks.ca.gov/?page_id=450) was quite small. The whole area makes for an easy getaway from the nearby urban centers (Sacramento or San Francisco.) It has several trails that can be knocked out in one day. It provides contrasting landscapes and is abound with wildlife including rattlesnakes and mountain lions. Fortunately, we didn't run into the latter. It was a small wonder that the [campground](https://www.hipcamp.com/california/austin-creek-state-recreation-area/bullfrog-pond-campground)  and the [redwood grove](https://www.parks.ca.gov/?page_id=450) turned out to be extremely busy during the holiday. The ranger informed us, "Black Friday is our busiest day of the year." Signage at the trailheads warns of extreme temperatures in the summer.
+
+For this hike, we first combined Pool Ridge Trail with East Ridge Trail as a 5.6 mile loop. Then we descended part of Gilliam Creek Trail and looped back to the vista point above the campground adding approximately 3.6 miles.
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-b.jpg"  >}}
 Just a few paces after Pool Ridge Trailhead, an idyllic misty mountain scene quickly unfolded in front of us. Didn't expect this!
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-c.jpg"  >}}
-The way down to the redwood grove is mostly effortless descending, which means an equal amount of ascending to be occurring later while completing the loop, not that easy ...
+The way down to the redwood grove is an effortless descent, which means an equal amount of ascending when completing the loop, not that easy ...
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-n.jpg"  >}}
 Colorful fallen leaves
@@ -55,21 +56,19 @@ Then here we were!
 Taking an easy walk on the well-maintained paths in the grove, basking in this green tranquility.
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-g.jpg"  >}}
-After looping back to where we started through East Ridge Trail, it was still early afternoon, so we hit on Gilliam Creek Trail, which goes through some dry open sections.
+After looping back to where we started through East Ridge Trail, it was still early afternoon. We then took Gilliam Creek Trail which goes through some dry open sections.
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-h.jpg"  >}}
 Just when we were enchanted by this contracting landscape...
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-i.jpg"  >}}
-All of a sudden, we saw an rattle snake right in the middle of the trail rattling his tail trying to scare off us! (Could only took a vague pic of him because we didn't want to risk our lives and remained staying away from him.) He made it clear that he wouldn't move out of our way, so after a while we had to go around him through the bushes ...
+All of a sudden, we saw an rattlesnake right in the middle of the trail rattling his tail trying to scare us away! We could only take this vague photo of him because we didn't want to risk a snakebite and stayed far back. He made it clear that he wouldn't move out of our way so after a while we had to go off the trails and through the bushes to get around him.
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-j.jpg"  >}}
-Once getting to Schoolhouse Creek, the scenery quickly switches into a damp moss-covered forest as if from another world. We were once again surprised by the capricious change of the landscapes.
+Once getting to Schoolhouse Creek, the scenery quickly switches into a damp, moss-covered forest as if from another  planet (maybe Endor?). We were once again surprised by the capricious change of landscape.
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-k.jpg"  >}}
-After this sign, we said goodbye to the magic-looking forest along the creek, which is abundant in salamanders. Now time to go up back to the road. 
-
-
+After this sign, we said goodbye to the magic forest along the creek with its abundant salamanders. Now it was time to go back up the road.
 
 Nature-sculpted dancing trees along the trails:
 {{< figure src="/img/2017/11/1.jpg"  >}}
@@ -81,3 +80,5 @@ Nature-sculpted dancing trees along the trails:
 {{< figure src="/img/2017/11/7.jpg"  >}}
 {{< figure src="/img/2017/11/8.jpg"  >}}
 {{< figure src="/img/2017/11/9.jpg"  >}}
+
+For more information, see: [Walks & Hikes in Armstrong Redwoods State Natural Reserve and Austin Creek State Recreation Area](https://www.parks.ca.gov/?page_id=23369)

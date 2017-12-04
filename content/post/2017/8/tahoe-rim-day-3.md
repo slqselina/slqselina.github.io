@@ -20,7 +20,7 @@ categories:
 * 02:15am - Back on the TRT
 * 02:41pm - Find a nice campsite next to a stream about 1 mile before Star Lake.
 
-{{< figure src="/img/2017/trtday3b.jpg" >}}
+{{< figure src="/img/2017/8/trtday3b.jpg" >}}
 
 <!--more-->
 

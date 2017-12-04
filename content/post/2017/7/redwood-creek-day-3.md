@@ -1,6 +1,7 @@
 ---
 title: "Redwood Creek DAY 3"
 date: 2017-07-18T08:32:06-09:00
+draft: true
 categories:
   - Hiking
   - Backpacking

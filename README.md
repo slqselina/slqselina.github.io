@@ -8,6 +8,12 @@ Run this command in this directory to use the hugo-future-imperfect
 hugo -w server --buildDrafts
 ```
 
+On Windows:
+```
+cd C:\hugo\sites\slqselina.github.io
+C:\hugo\bin\hugo server --buildDrafts
+```
+
 To create a new post:
 ```
 hugo new post/tahoe-rim-echo-summit-to-kingsbury-south.md
