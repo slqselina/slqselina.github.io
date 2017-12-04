@@ -8,6 +8,8 @@ categories:
   - USA
 ---
 
+{{< figure src="/img/2017/7/redwood-creek-day-2-a.jpg">}}
+
 ## Loop day hike in Redwood national forest
 ### Cloudy - really?
 
@@ -28,5 +30,20 @@ categories:
 
 <!--more-->
 
-{{< figure src="/img/2017/7/marble-mountain-day-1-a-river.jpg">}}
-Pines, bushes, creeks and grit, a familiar scenery that reminded us of our Trinity Alps backpacking trip a week ago.
+{{< figure src="/img/2017/7/redwood-creek-day-2-b.jpg">}}
+
+{{< figure src="/img/2017/7/redwood-creek-day-2-c.jpg">}}
+
+{{< figure src="/img/2017/7/redwood-creek-day-2-d.jpg">}}
+
+{{< figure src="/img/2017/7/redwood-creek-day-2-e.jpg">}}
+
+{{< figure src="/img/2017/7/redwood-creek-day-2-f.jpg">}}
+
+{{< figure src="/img/2017/7/redwood-creek-day-2-g.jpg">}}
+
+{{< figure src="/img/2017/7/redwood-creek-day-2-g.jpg">}}
+
+{{< figure src="/img/2017/7/redwood-creek-day-2-i.jpg">}}
+
+{{< figure src="/img/2017/7/redwood-creek-day-2-j.jpg">}}

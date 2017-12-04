@@ -8,6 +8,8 @@ categories:
   - USA
 ---
 
+{{< figure src="/img/2017/7/redwood-creek-day-1-a.jpg">}}
+
 ## Tall Trees Grove Trailhead -> Redwood Creek
 ### Sunny - really?
 
@@ -23,5 +25,17 @@ categories:
 
 <!--more-->
 
-{{< figure src="/img/2017/7/marble-mountain-day-1-a-river.jpg">}}
-Pines, bushes, creeks and grit, a familiar scenery that reminded us of our Trinity Alps backpacking trip a week ago.
+
+{{< figure src="/img/2017/7/redwood-creek-day-1-b.jpg">}}
+
+{{< figure src="/img/2017/7/redwood-creek-day-1-c.jpg">}}
+
+{{< figure src="/img/2017/7/redwood-creek-day-1-d.jpg">}}
+
+{{< figure src="/img/2017/7/redwood-creek-day-1-e.jpg">}}
+
+{{< figure src="/img/2017/7/redwood-creek-day-1-f.jpg">}}
+
+{{< figure src="/img/2017/7/redwood-creek-day-1-g.jpg">}}
+
+{{< figure src="/img/2017/7/redwood-creek-day-1-h.jpg">}}
