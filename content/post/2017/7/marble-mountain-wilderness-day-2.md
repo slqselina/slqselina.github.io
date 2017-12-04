@@ -44,7 +44,7 @@ Dark salamanders and small fish were playing hide-and-seek in the lake as blue a
 "Let's call it a day and just chill out here!" Hiking is not always about how many miles accomplished or bucket lists checked off, sometimes slowing down the pace allows us to appreciate subtle, tiny details of the nature and be inspired by the beauty.
 
 {{< figure src="/img/2017/7/marble-mountain-day-2-g.jpg">}}
-We were having a good time snacking, napping, reading books and strolling around the campsite by the lake. Kevy even jumped into the lake and swam for a while. Later, other hikers also came to camp by the lake. We saluted one another and exchanged information.
+We were having a good time snacking, napping, reading books and strolling around the campsite by the lake. Panda even jumped into the lake and swam for a while. Later, other hikers also came to camp by the lake. We saluted one another and exchanged information.
 
 {{< figure src="/img/2017/7/marble-mountain-day-2-i.jpg">}}
 While chatting with an energetic lady named Barb from the Bay Area who was probably 60 or 70 and doing a PCT section, she mentioned: “The world is big and wonderful. I'm trying my best to see as much as possible before I'm gone.” That's exactly what we were thinking too!

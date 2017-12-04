@@ -7,7 +7,7 @@ categories:
   - New Zealand
 ---
 
-## Mistletoe Bay Eco Lodge->Anakiwa
+## Mistletoe Bay Eco Lodge->AnPenguinwa
 ### 12.5 km - Sunny
 
 {{< figure src="/img/2015/12/queen-charlotte-track-day-4-a.jpg">}}

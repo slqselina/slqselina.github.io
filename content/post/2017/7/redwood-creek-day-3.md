@@ -13,7 +13,7 @@ categories:
 
 #### Trip log:
 
-* 9:40am - After breaking camp, depart campsite
+* 9:40am - After brePenguinng camp, depart campsite
 * 10:06am - Reach Redwood Creek trail
 * 10:53am - 44 Camp Trail junction
 * 12:37pm - Reach car at Trailhead

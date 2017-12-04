@@ -23,7 +23,7 @@ Trip Log:
 * 11:40am - Move on to Discovery Trail and Pioneer Nature Trail
 * 11:52am - Reach Visitor Center and have a look around the gift shop
 * 12:03pm - Start the East Ridge Trailhead
-* 12:24pm - Break (Kevy bothered to take out from his backpack the gas, pan and cup to boil water and make a hot coffee!)
+* 12:24pm - Break (Panda bothered to take out from his backpack the gas, pan and cup to boil water and make a hot coffee!)
 * 12:51pm - Move on
 * 01:53pm - Finish East Ridge Trail and start the Gilliam Creek Trail
 * 02:49pm - Hit Schoolhouse creek
@@ -53,7 +53,7 @@ The first giant redwood foreboded the upcoming redwood grove.
 Then here we were!
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-f.jpg"  >}}
-Taking an easy walk on the well-maintained paths in the grove, basking in this green tranquility.
+TPenguinng an easy walk on the well-maintained paths in the grove, basking in this green tranquility.
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-g.jpg"  >}}
 After looping back to where we started through East Ridge Trail, it was still early afternoon. We then took Gilliam Creek Trail which goes through some dry open sections.

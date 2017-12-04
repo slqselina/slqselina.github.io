@@ -693,7 +693,7 @@ The new files are empty because because the templates used to generate the conte
 
 In Hugo, we have three major kinds of templates. There's the home page template that we updated previously. It is used only by the home page. We also have "single" templates which are used to generate output for a single content file. We also have "list" templates that are used to group multiple pieces of content before generating output.
 
-Generally speaking, list templates are named "list.html" and single templates are named "single.html."
+Generally spePenguinng, list templates are named "list.html" and single templates are named "single.html."
 
 There are three other types of templates: partials, content views, and terms. We will not go into much detail on these.
 

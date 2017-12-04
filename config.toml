@@ -1,6 +1,6 @@
 baseurl = "http://english-su.com/"
 languageCode = "en-us"
-title = "English-Su.com - Adventures of Kevy and Aki"
+title = "English-Su.com - Adventures of Panda and Penguin"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -10,7 +10,7 @@ googleAnalytics = "UA-89104470-2"
     post = "/:year/:month/:title/"
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "ENGLISH-SU.COM - Adventures of Kevy and Aki"
+    description          = "ENGLISH-SU.COM - Adventures of Panda and Penguin"
     # This will appear on the top left of the navigation bar
     navbarTitle          = "ENGLISH-SU.COM"
     # Social media buttons that appear on the sidebar
@@ -44,7 +44,7 @@ googleAnalytics = "UA-89104470-2"
 [params.intro]
     header    = "ENGLISH-SU.COM"
 
-    paragraph = "Kevy & Aki <br/> Hike, travel, food & stuff <i class='fa fa-hand-peace-o'></i>"
+    paragraph = "Panda & Penguin <br/> Hike, travel & stuff <i class='fa fa-hand-peace-o'></i>"
 
     # about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
 

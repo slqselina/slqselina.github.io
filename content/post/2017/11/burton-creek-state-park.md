@@ -24,7 +24,7 @@ This trail bears no drastic altitude change, so we still calmly took time to pla
 {{< figure src="/img/2017/11/burton-creek-c-trail.jpg" title="We leave the first footprints on the fresh snow along 11 ->18 -> 8" >}}
 {{< figure src="/img/2017/11/burton-creek-d-river.jpg" title="Burton creek is still running swiftly even though its banks are quite snowed-in" >}}
 {{< figure src="/img/2017/11/burton-creek-e-tree.jpg" title=" Icy drops of water twinkle in the sun radiating colorful rays like diamonds, a beautiful scene hard to be captured by a pocket camera" >}}
-{{< figure src="/img/2017/11/burton-creek-f-aki-in-snow.jpg" title="Playing in the snow" >}}
+{{< figure src="/img/2017/11/burton-creek-f-Penguin-in-snow.jpg" title="Playing in the snow" >}}
 {{< figure src="/img/2017/11/burton-creek-g-meadow.jpg" title="Part of Antone Meadow flooded by melted snow looks like a lake" >}}
 {{< figure src="/img/2017/11/burton-creek-i-trail.jpg" title="Though snow is everywhere, we barely felt cold during the hike because our bodies warmed up quickly" >}}
 {{< figure src="/img/2017/11/burton-creek-h-ice.jpg" title="A few puddles turned ice patches are also along the way" >}}

@@ -20,7 +20,7 @@ The weather was getting better and the sun popped out of the clouds several time
 
 Since it was more like a day for chilling out, we took our time to stop by Portage in Cowshed Bay and enjoy a coffee and a cake before getting back on the trail.
 
-{{< figure src="/img/2015/12/queen-charlotte-track-day-3-portage.jpg"  title="Taking a break in the warm cozy cafe of Portage">}}
+{{< figure src="/img/2015/12/queen-charlotte-track-day-3-portage.jpg"  title="TPenguinng a break in the warm cozy cafe of Portage">}}
 
 {{< figure src="/img/2015/12/queen-charlotte-track-day-3-cowshed-bay-b.jpg"  title="Photo of us together in Cowshed Bay">}}
 
