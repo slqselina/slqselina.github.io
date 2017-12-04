@@ -41,9 +41,12 @@ rm -R public/*
 git co public/CNAME
 hugo -t hugo-future-imperfect
 ```
-Commit and push
+Add everything to git
 ```
 git add -A
+```
+Commit and push
+```
 git commit -a -m "Site Deploy for master `date "+%Y-%m-%d-%H%M%S"`" && git push origin hugo
 ```
 Push subtree
