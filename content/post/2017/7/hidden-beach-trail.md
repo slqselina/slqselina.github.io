@@ -1,5 +1,5 @@
 ---
-title: "Redwood Creek DAY 1"
+title: "Hidden Beach Trail"
 date: 2017-07-20T08:32:06-09:00
 draft: true
 categories:
@@ -8,9 +8,9 @@ categories:
   - USA
 ---
 
-{{< figure src="/img/2017/7/redwood-creek-day-1-a.jpg">}}
+{{< figure src="/img/2017/7/hidden-beach-trail-a.jpg">}}
 
-## Tall Trees Grove Trailhead -> Redwood Creek
+##
 
 #### Trip log:
 
@@ -18,17 +18,18 @@ categories:
 
 <!--more-->
 
+{{< figure src="/img/2017/7/hidden-beach-trail-b.jpg">}}
 
-{{< figure src="/img/2017/7/redwood-creek-day-1-b.jpg">}}
+{{< figure src="/img/2017/7/hidden-beach-trail-c.jpg">}}
 
-{{< figure src="/img/2017/7/redwood-creek-day-1-c.jpg">}}
+{{< figure src="/img/2017/7/hidden-beach-trail-d.jpg">}}
 
-{{< figure src="/img/2017/7/redwood-creek-day-1-d.jpg">}}
+{{< figure src="/img/2017/7/hidden-beach-trail-e.jpg">}}
 
-{{< figure src="/img/2017/7/redwood-creek-day-1-e.jpg">}}
+{{< figure src="/img/2017/7/hidden-beach-trail-f.jpg">}}
 
-{{< figure src="/img/2017/7/redwood-creek-day-1-f.jpg">}}
+{{< figure src="/img/2017/7/hidden-beach-trail-g.jpg">}}
 
-{{< figure src="/img/2017/7/redwood-creek-day-1-g.jpg">}}
+{{< figure src="/img/2017/7/hidden-beach-trail-h.jpg">}}
 
-{{< figure src="/img/2017/7/redwood-creek-day-1-h.jpg">}}
+{{< figure src="/img/2017/7/hidden-beach-trail-i.jpg">}}
