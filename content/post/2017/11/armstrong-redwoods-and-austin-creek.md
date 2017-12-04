@@ -62,7 +62,7 @@ After looping back to where we started through East Ridge Trail, it was still ea
 Just when we were enchanted by this contracting landscape...
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-i.jpg"  >}}
-All of a sudden, we saw an rattlesnake right in the middle of the trail rattling his tail trying to scare us away! We could only take this vague photo of him because we didn't want to risk a snakebite and stayed far back. He made it clear that he wouldn't move out of our way so after a while we had to go off the trails and through the bushes to get around him.
+All of a sudden, we saw a rattlesnake right in the middle of the trail rattling his tail trying to scare us away! We could only take this vague photo of him because we didn't want to risk a snakebite and stayed far back. He made it clear that he wouldn't move out of our way so after a while we had to go off the trails and through the bushes to get around him.
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-j.jpg"  >}}
 Once getting to Schoolhouse Creek, the scenery quickly switches into a damp, moss-covered forest as if from another  planet (maybe Endor?). We were once again surprised by the capricious change of landscape.
