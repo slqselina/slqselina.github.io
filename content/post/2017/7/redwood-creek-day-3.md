@@ -8,6 +8,7 @@ categories:
   - USA
 ---
 
+{{< figure src="/img/2017/7/redwood-creek-day-3-a.jpg">}}
 
 ## Redwood Creek -> Tall Trees Grove Trailhead
 ### Sunny
@@ -20,3 +21,5 @@ categories:
 * 12:37pm - Reach car at Trailhead
 
 <!--more-->
+
+{{< figure src="/img/2017/7/redwood-creek-day-3-b.jpg">}}
