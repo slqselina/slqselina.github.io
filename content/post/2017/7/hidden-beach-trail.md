@@ -9,9 +9,9 @@ categories:
 ---
 
 {{< figure src="/img/2017/7/hidden-beach-trail-a.jpg">}}
-
 <p>
-#### Trip log:
+### 1 mile: out-and-back
+### Trip log:
 
 * 04:47pm - start out
 * 05:10pm - reach Hidden Beach and chill out
