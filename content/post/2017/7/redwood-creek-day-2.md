@@ -42,7 +42,7 @@ categories:
 
 {{< figure src="/img/2017/7/redwood-creek-day-2-g.jpg">}}
 
-{{< figure src="/img/2017/7/redwood-creek-day-2-g.jpg">}}
+{{< figure src="/img/2017/7/redwood-creek-day-2-h.jpg">}}
 
 {{< figure src="/img/2017/7/redwood-creek-day-2-i.jpg">}}
 
