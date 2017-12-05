@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "English-Su.com - Adventures of Panda and Penguin"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
-paginate = 3
+paginate = 5
 disqusShortname = ""
 googleAnalytics = "UA-89104470-2"
 [permalinks]
