@@ -5,6 +5,7 @@ categories:
   - Hiking
   - Backpacking
   - USA
+  - Tahoe
 ---
 
 ### Armstrong Pass -> Star Lake

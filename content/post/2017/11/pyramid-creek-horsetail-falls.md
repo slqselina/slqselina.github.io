@@ -5,6 +5,7 @@ categories:
   - Hiking
   - Day Hikes
   - USA
+  - Tahoe
 ---
 
 {{< figure src="/img/2017/11/pyramid-creek-a-cascade-vista.jpg" >}}

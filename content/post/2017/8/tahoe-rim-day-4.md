@@ -5,6 +5,7 @@ categories:
   - Hiking
   - Backpacking
   - USA
+  - Tahoe
 ---
 
 ### Star Lake -> Kingsbury South

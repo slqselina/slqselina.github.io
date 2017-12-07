@@ -5,6 +5,7 @@ categories:
   - Hiking
   - Backpacking
   - USA
+  - Tahoe
 ---
 {{< figure src="/img/2017/8/trtday2f.jpg" >}}
 ### Round Lake -> Near Armstrong Pass

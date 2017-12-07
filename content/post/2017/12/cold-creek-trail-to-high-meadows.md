@@ -5,6 +5,7 @@ categories:
   - Hiking
   - Day Hikes
   - USA
+  - Tahoe
 ---
 
 {{< figure src="/img/2017/12/cold-creek-trail-a.jpg" >}}

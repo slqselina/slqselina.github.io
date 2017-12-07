@@ -5,6 +5,7 @@ categories:
   - Hiking
   - Backpacking
   - USA
+  - Tahoe
 ---
 
 ## Echo Summit -> Round Lake
