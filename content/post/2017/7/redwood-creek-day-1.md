@@ -15,7 +15,7 @@ categories:
 
 #### Trip log:
 
-* 8:35am - Breakfast at Palm Cafe
+* 8:35am - Breakfast at Palm Cafe in Orick
 * 10:46am - Departure from Trailhead
 * 11:24am - Tall Tree Grove Loop Trail Junction
 * 11:46am - Cross Redwood Creek
@@ -25,8 +25,10 @@ categories:
 
 <!--more-->
 
+We enjoyed a BIG breakfast in this tiny town named Orick on our way, but later turned out to hike only no more than 4 miles ...
 
 {{< figure src="/img/2017/7/redwood-creek-day-1-b.jpg">}}
+These old giant shady redwoods prefer moist air and mild temperatures. They are so tall that being among them we can't stop feeling insignificant about ourselves as if we were ants living in a big mansion.
 
 {{< figure src="/img/2017/7/redwood-creek-day-1-c.jpg">}}
 
