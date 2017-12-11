@@ -25,6 +25,8 @@ categories:
 
 {{< figure src="/img/2017/12/romero-canyon-trail-e.jpg" >}}
 
+{{< figure src="/img/2017/12/romero-canyon-trail-i.jpg" >}}
+
 {{< figure src="/img/2017/12/romero-canyon-trail-f.jpg" >}}
 
 {{< figure src="/img/2017/12/romero-canyon-trail-g.jpg" >}}
