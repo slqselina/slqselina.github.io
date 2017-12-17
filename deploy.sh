@@ -11,5 +11,6 @@ hugo -t hugo-future-imperfect
 git status
 # Add file and push
 git add -A
-git commit -a -m "Site Deploy for master `date "+%Y-%m-%d-%H%M%S"`" && git push origin hugo
+git commit -a -m "Site Deploy for master `date "+%Y-%m-%d-%H%M%S"`"
+git push origin hugo
 git subtree push --prefix=public git@github.com:slqselina/slqselina.github.io.git master
