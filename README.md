@@ -9,9 +9,11 @@ hugo -w server --buildDrafts
 ```
 
 On Windows:
+* Launch ConEmu
+* Enter the following:
 ```
-cd C:\hugo\sites\slqselina.github.io
-C:\hugo\bin\hugo server --buildDrafts
+cd /mnt/c/Hugo/Sites/slqselina.github.io/
+hugo server --buildDrafts
 ```
 
 To create a new post:
