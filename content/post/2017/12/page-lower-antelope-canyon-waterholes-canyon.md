@@ -8,7 +8,7 @@ categories:
 
 {{< figure src="/img/2017/12/lower-antelope-canyon-a.jpg" >}}
 
-Before this trip, we learned online that Upper and Lower Antelope Canyons are similar in form. Upper Antelope Canyon is unique because light beams are visible but only during specific hours of the day. We are not big fans of light beam photos and the tour to Lower Antelope Canyon is cheaper and less busy, so we booked it with Ken's Tour ($27/person for the tour plus $8/car parking).
+Before this trip, we learned online that Upper and Lower Antelope Canyons are similar in form. Upper Antelope Canyon is unique because light beams are visible but only during specific hours of the day. We are not big fans of light beam photos and the tour to Lower Antelope Canyon is cheaper and less busy, so we booked it with Ken's Tour.
 
 <!--more-->
 
