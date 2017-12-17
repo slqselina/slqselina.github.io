@@ -22,7 +22,7 @@ Tourists used to come to the Antelope Canyons on their own self-guided treks. Th
 
 {{< figure src="/img/2017/12/lower-antelope-canyon-d.jpg" >}}
 
-After the tour, we snacked and decided to explore Waterholes Canyon Trail. This trail is also located on  Navajo Nation Land. Looking down at the edge of the cliffs, Waterholes Canyon seems like a terrifyingly huge and deep crack in the ground (Penguin said she did feel dizzy looking down the bottom of the canyon and hesitated about descending it). But it turned out that going down to the bottom of the canyon wasn't as treacherous as it seemed. The canyon is wider and deeper than Lower Antelope Canyon and sections of the sandstones show similar pinky curves. After reaching a point where there was a dramatic drop off in with remains of torn down stairs aside, we determined it was time to hike back. Though Waterholes Canyon doesn't look as pinky and dreamy as Antelope Canyons, it was great that we could hang out and take photos without a tour guide moving us along!
+After the tour, we snacked and decided to explore Waterholes Canyon Trail. This trail is also located on  Navajo Nation Land. Looking down at the edge of the cliffs, Waterholes Canyon seems like a terrifyingly huge and deep crack in the ground (Penguin said she did feel dizzy looking down the bottom of the canyon and hesitated about descending it). But it turned out that going down to the bottom of the canyon wasn't as treacherous as it seemed. The canyon is wider and deeper than Lower Antelope Canyon and sections of the sandstones show similar pinky curves. After reaching a point where there was a dramatic drop off in with remains of torn down stairs aside, we determined it was time to hike back. Though Waterholes Canyon doesn't look as pink and dreamy as Antelope Canyons, it was great that we could hang out and take photos without a tour guide moving us along!
 
 {{< figure src="/img/2017/12/waterholes-canyon-1.jpg" >}}
 
@@ -40,7 +40,7 @@ After the tour, we snacked and decided to explore Waterholes Canyon Trail. This 
 
 {{< figure src="/img/2017/12/waterholes-canyon-8.jpg" >}}
 
-At sunset hours, we drove to Wahweap Bay and Wahweap Marina to check out some vista points of  Colorado River and Powell Lake.
+At sunset hours, we drove to Wahweap Bay and Wahweap Marina to check out some vista points of Colorado River and Lake Powell which is formed by the damming of the river.
 
 {{< figure src="/img/2017/12/powell-lake.jpg" >}}
 
