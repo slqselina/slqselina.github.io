@@ -1,6 +1,7 @@
 ---
 title: "Romero Canyon Trail to Romero Pools, Catalina State Park, AZ"
 date: "2017-12-10T20:29:34-07:00"
+draft: true
 categories:
   - Hiking
   - Day Hikes
