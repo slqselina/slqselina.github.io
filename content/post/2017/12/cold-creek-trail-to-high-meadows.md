@@ -1,7 +1,6 @@
 ---
 title: "Cold Creek Trail to High Meadows"
 date: "2017-12-02T20:29:34-07:00"
-draft: true
 categories:
   - Hiking
   - Day Hikes
