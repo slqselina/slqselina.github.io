@@ -40,7 +40,7 @@ After the tour, we snacked and decided to explore Waterholes Canyon Trail. This 
 
 {{< figure src="/img/2017/12/waterholes-canyon-8.jpg" >}}
 
-At sunset hours, we drove to Wahweap Bay and Wahweap Marina to check out some vista points of Colorado River and Lake Powell which is formed by the damming of the river.
+As sunset drew closer, we drove to Wahweap Bay and Wahweap Marina to check out some vista points of Colorado River and Lake Powell, which was formed by the damming of the river.
 
 {{< figure src="/img/2017/12/powell-lake.jpg" >}}
 
