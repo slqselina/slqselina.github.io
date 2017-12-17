@@ -14,7 +14,7 @@ Before this trip, we learned online that Upper and Lower Antelope Canyons are si
 
 {{< figure src="/img/2017/12/lower-antelope-canyon-b.jpg" >}}
 
-Our tour guide was a 26-year old Navajo guy who not only showed us the special corners in the canyon but also explained some of the history of the Navajo Nation. From him, we learned that Page is a relatively new town founded in the 1950s. At first, it was a campground for the _dam_ workers building in the Glen Canyon Dam.  The word "antelope" in the canyon's name actually refers to a [pronghorn](https://en.wikipedia.org/wiki/Pronghorn) which mistakenly identified as antelope by the first white explorers due to their similar appearances. There are no antelope existing on American continent.
+Our tour guide was a 26-year old Navajo guy who not only showed us the special corners in the canyon but also explained some of the history of the Navajo Nation. From him, we learned that Page is a relatively new town founded in the 1950s. At first, it was a campground for the _dam_ workers building in the Glen Canyon Dam.  The word "antelope" in the canyon's name actually refers to a [pronghorn](https://en.wikipedia.org/wiki/Pronghorn) which was mistakenly identified as antelope by the first white explorers. There are no antelope on the American continent.
 
 {{< figure src="/img/2017/12/lower-antelope-canyon-c.jpg" >}}
 
