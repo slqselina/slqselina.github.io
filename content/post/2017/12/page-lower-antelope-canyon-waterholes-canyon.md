@@ -32,7 +32,7 @@ After the tour, we snacked and decided to explore Waterholes Canyon Trail. This 
 
 {{< figure src="/img/2017/12/waterholes-canyon-4.jpg" >}}
 
-{{< figure src="/img/2017/12/waterholes-canyon-5.jpg" >}}
+{{< figure src="/img/2017/12/waterholes-canyon-5a.jpg" >}}
 
 {{< figure src="/img/2017/12/waterholes-canyon-6.jpg" >}}
 
