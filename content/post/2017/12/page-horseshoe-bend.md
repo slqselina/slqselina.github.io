@@ -1,7 +1,6 @@
 ---
 title: "Horseshoe Bend, Page, AZ"
 date: "2017-12-11T20:29:34-07:00"
-draft: true
 categories:
   - Travel
   - USA
