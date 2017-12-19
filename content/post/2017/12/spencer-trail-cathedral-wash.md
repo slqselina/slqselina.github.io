@@ -1,13 +1,13 @@
 ---
-title: "Buckskin Gulch, Page, AZ"
-date: "2017-12-13T20:29:34-07:00"
+title: "Spencer Trai and Lower Cathedral Wash, AZ"
+date: "2017-12-14T20:29:34-07:00"
 draft: true
 categories:
   - Travel
   - USA
 ---
 
-{{< figure src="/img/2017/12/buckskin-gulch-a.jpg" >}}
+{{< figure src="/img/2017/12/spencer-trail-a.jpg" >}}
 
 Trip Log:
 
@@ -25,4 +25,34 @@ Trip Log:
 
 <!--more-->
 
-I
+{{< figure src="/img/2017/12/on-road.jpg" >}}
+
+{{< figure src="/img/2017/12/spencer-trail-b.jpg" >}}
+
+{{< figure src="/img/2017/12/spencer-trail-c.jpg" >}}
+
+{{< figure src="/img/2017/12/spencer-trail-d.jpg" >}}
+
+{{< figure src="/img/2017/12/spencer-trail-e.jpg" >}}
+
+{{< figure src="/img/2017/12/spencer-trail-f.jpg" >}}
+
+{{< figure src="/img/2017/12/spencer-trail-g.jpg" >}}
+
+{{< figure src="/img/2017/12/spencer-trail-h.jpg" >}}
+
+{{< figure src="/img/2017/12/spencer-trail-i.jpg" >}}
+
+{{< figure src="/img/2017/12/spencer-trail-l.jpg" >}}
+
+{{< figure src="/img/2017/12/spencer-trail-j.jpg" >}}
+
+{{< figure src="/img/2017/12/on-road-2.jpg" >}}
+
+{{< figure src="/img/2017/12/cathedral-wash-a.jpg" >}}
+
+{{< figure src="/img/2017/12/cathedral-wash-b.jpg" >}}
+
+{{< figure src="/img/2017/12/cathedral-wash-c.jpg" >}}
+
+{{< figure src="/img/2017/12/cathedral-wash-d.jpg" >}}
