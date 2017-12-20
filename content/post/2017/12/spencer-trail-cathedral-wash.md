@@ -1,5 +1,5 @@
 ---
-title: "Spencer Trai and Lower Cathedral Wash, AZ"
+title: "Spencer Trail and Lower Cathedral Wash, AZ"
 date: "2017-12-14T20:29:34-07:00"
 draft: true
 categories:
@@ -35,13 +35,27 @@ But today we did have an destination: Spencer Trail, located within [Glen Canyon
 {{< figure src="/img/2017/12/spencer-trail-b.jpg" >}}
 
 <p>
-This 4-mile out-and-back trail is categorized strenuous and it is not hard to imagine how tough it will be in summer, because the whole trail is fully exposed to the sun. But in winter, not so much. At least we didn't have to carry too much water or feel concerned about the extreme heat.
+This 4.4-mile out-and-back trail is categorized difficult on the [official website](https://www.nps.gov/glca/planyourvisit/day-hikes.htm) and it is not hard to imagine how tough it will be in summer, because the whole trail is fully exposed, besides being rocky and gritty. But in winter, not so much. We actually appreciated the warmth from the sun when the temperature was low.
 
 {{< figure src="/img/2017/12/spencer-trail-c.jpg" >}}
 
+<p>
+The trail provides a stunning view of the meandering Colorado River with the far back Vermillion Canyon as background.
+
+{{< figure src="/img/2017/12/spencer-trail-l.jpg" >}}
+
+<p>
+But don't get too distracted by the view, because sections of the trail are narrow and steep, and even slippery!
+
 {{< figure src="/img/2017/12/spencer-trail-d.jpg" >}}
 
+<p>
+At the end of the trail is a vast plateau formed with Kayenta and Navajo sandstone.
+
 {{< figure src="/img/2017/12/spencer-trail-e.jpg" >}}
+
+<p>
+We walked to the edge of the cliffs and sat down to snack while enjoying the canyon and river view.
 
 {{< figure src="/img/2017/12/spencer-trail-f.jpg" >}}
 
@@ -50,8 +64,6 @@ This 4-mile out-and-back trail is categorized strenuous and it is not hard to im
 {{< figure src="/img/2017/12/spencer-trail-h.jpg" >}}
 
 {{< figure src="/img/2017/12/spencer-trail-i.jpg" >}}
-
-{{< figure src="/img/2017/12/spencer-trail-l.jpg" >}}
 
 {{< figure src="/img/2017/12/spencer-trail-j.jpg" >}}
 
