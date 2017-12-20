@@ -25,9 +25,17 @@ Trip Log:
 
 <!--more-->
 
+Now we start to understand why Utah and Arizona are some photographers' preference. It is a land of contrasts and wonders. Even without any destination, driving on the road is like visiting a gallery, where the most audacious sculptures and carvings are being displayed.
+
 {{< figure src="/img/2017/12/on-road.jpg" >}}
 
+<p>
+But today we did have an destination: Spencer Trail, located within [Glen Canyon National Recreation Area](https://www.nps.gov/glca/index.htm) (entrance fee required). At the trailhead there are some historic houses and introduction about how Lee's Ferry was founded.
+
 {{< figure src="/img/2017/12/spencer-trail-b.jpg" >}}
+
+<p>
+This 4-mile out-and-back trail is categorized strenuous and it is not hard to imagine how tough it will be in summer, because the whole trail is fully exposed to the sun. But in winter, not so much. At least we didn't have to carry too much water or feel concerned about the extreme heat.
 
 {{< figure src="/img/2017/12/spencer-trail-c.jpg" >}}
 

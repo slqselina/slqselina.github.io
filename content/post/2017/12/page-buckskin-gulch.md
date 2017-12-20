@@ -21,10 +21,10 @@ Trip Log:
 
 <!--more-->
 
-If we see Lower Antelope Canyon as a lovely princess dressed all in pink, then Buckskin Gulch is a mysterious witch whose appearance capriciously varies between dark and bright, solitary and passionate, ugly and magnificent.
+If we see Lower Antelope Canyon as a lovely princess dressed all in pink, then Buckskin Gulch is a mysterious witch whose appearance capriciously varies between dark and bright, solitary and passionate, ugly and magnificent, life and death.
 {{< figure src="/img/2017/12/buckskin-gulch-j.jpg" >}}
 
-From Page to Wire Pass Trailhead is a 1-hour drive. We spent the last 25 minutes carefully moving on a gritty dirt road and were surprised by a naughty deer who crossed the road just in front of our car! "Hey watch out, buddy!" Maybe he did it on purpose to show off his great agility.
+From Page to Wire Pass Trailhead is a 1-hour drive across the boarder between Arizona and Utah. We spent the last 25 minutes carefully moving on a gritty dirt road and were surprised by a naughty deer who crossed the road just in front of our car! "Hey watch out, buddy!" Maybe he did it on purpose to show off his great agility.
 {{< figure src="/img/2017/12/buckskin-gulch-b.jpg" >}}
 
 Wire Pass Trailhead is also the starting point of the famous Coyote Buttes (or the "Wave"). Getting to Coyote Buttes requires some luck: everyday only 20 permits are issued, 10 online and 10 on site. Since our stay was quite limited this time, we didn't bother to gamble for it (will try it next time) and directly headed to Buckskin Gulch after completing the self-registration and payment at the parking lot.
