@@ -22,7 +22,7 @@ categories:
 
 <!--more-->
 
-Last week when we were tPenguinng a short walk along Cold Creek Trail, another hiker told us that this trail goes all the way to High Meadows, which we hadn't heard of before. Curious about the so-called High Meadows, we went back to the same trail this weekend, starting out from High Meadows Trailhead located in a quiet residential neighborhood.
+Last week when we were taking a short walk along Cold Creek Trail, another hiker told us that this trail goes all the way to High Meadows, which we hadn't heard of before. Curious about the so-called High Meadows, we went back to the same trail this weekend, starting out from High Meadows Trailhead located in a quiet residential neighborhood.
 
 {{< figure src="/img/2017/12/cold-creek-trail-b.jpg" >}}
 The very first part of the trail is mostly flat and wide, thus unnoticeable in the pine forest. Once reaching the first wooden bridge, the path narrows down and starts to gradually ascend.
