@@ -34,7 +34,7 @@ The trails alternated between snowy and soft dry grounds. Someone is playing hid
 After hiking nearly 3 miles along Cold Creek, we reached High Meadows. Hooray!
 
 {{< figure src="/img/2017/12/cold-creek-trail-d.jpg" >}}
-From High Meadows we were able to gaze at various snow-capped peaks visible in the  Tahoe Basin, including Freel Peak, the tallest summit in Carson Range, Trimmer Peak and Job's Sister. The view is breathtPenguinng.
+From High Meadows we were able to gaze at various snow-capped peaks visible in the  Tahoe Basin, including Freel Peak, the tallest summit in Carson Range, Trimmer Peak and Job's Sister. The view is breathtaking.
 
 {{< figure src="/img/2017/12/cold-creek-trail-f.jpg" >}}
 This can be a nice place to chill-out and read in summer and fall.  After studying the map, we decided to move on to Monument Pass Trail to get more exercise.
