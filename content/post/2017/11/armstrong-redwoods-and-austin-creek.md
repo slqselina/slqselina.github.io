@@ -53,7 +53,7 @@ The first giant redwood foreboded the upcoming redwood grove.
 Then here we were!
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-f.jpg"  >}}
-TPenguinng an easy walk on the well-maintained paths in the grove, basking in this green tranquility.
+Taking an easy walk on the well-maintained paths in the grove, basking in this green tranquility.
 
 {{< figure src="/img/2017/11/armstrong-redwoods-and-austin-creek-g.jpg"  >}}
 After looping back to where we started through East Ridge Trail, it was still early afternoon. We then took Gilliam Creek Trail which goes through some dry open sections.
