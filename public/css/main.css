@@ -3017,3 +3017,6 @@ body.is-menu-visible #menu {
   line-height: 1.4em;
   margin-top: .5em
 }
+#content figure {
+  margin-bottom: 10px;
+}

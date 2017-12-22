@@ -1,7 +1,6 @@
 ---
 title: "Spencer Trail and Lower Cathedral Wash, AZ"
 date: "2017-12-14T20:29:34-07:00"
-draft: true
 categories:
   - Travel
   - USA
@@ -50,7 +49,6 @@ At the end of the trail is a vast plateau formed with Kayenta and Navajo sandsto
 
 {{< figure src="/img/2017/12/spencer-trail-e.jpg" >}}
 
-<p>
 We walked to the edge of the cliffs and sat down to snack while enjoying the canyon and river view.
 
 {{< figure src="/img/2017/12/spencer-trail-f.jpg" >}}
