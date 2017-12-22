@@ -25,31 +25,27 @@ Trip Log:
 
 <!--more-->
 
-Now we start to understand why Utah and Arizona are some photographers' preference. It is a land of contrasts and wonders. Even without any destination, driving on the road is like visiting a gallery, where the most audacious sculptures and carvings are being displayed.
+Now we start to understand why Utah and Arizona are a photographer's dream. It is a land of contrasts and wonders. Even without a destination, driving on the road is like visiting a gallery, where the most audacious sculptures and carvings are being displayed.
 
 {{< figure src="/img/2017/12/on-road.jpg" >}}
 
-<p>
-But today we did have an destination: Spencer Trail, located within [Glen Canyon National Recreation Area](https://www.nps.gov/glca/index.htm) (entrance fee required). At the trailhead there are some historic houses and introduction about how Lee's Ferry was founded.
+But today we did have an destination: Spencer Trail, located within [Glen Canyon National Recreation Area](https://www.nps.gov/glca/index.htm) (entrance fee required). At the trailhead there are some historic houses and an introduction about the founding of Lee's Ferry.
 
 {{< figure src="/img/2017/12/spencer-trail-b.jpg" >}}
 
-<p>
-This 4.4-mile out-and-back trail is categorized difficult on the [official website](https://www.nps.gov/glca/planyourvisit/day-hikes.htm) and it is not hard to imagine how tough it will be in summer, because the whole trail is fully exposed, besides being rocky and gritty. But in winter, not so much. We actually appreciated the warmth from the sun when the temperature was low.
+This 4.4 mile out-and-back trail is categorized as _difficult_ on the [official website](https://www.nps.gov/glca/planyourvisit/day-hikes.htm). It is not hard to imagine how tough it would be during summer because the trail is fully exposed to the sun. As we embarked on the trail during winter, we actually appreciated the warmth from the sun as the temperature was low.
 
 {{< figure src="/img/2017/12/spencer-trail-c.jpg" >}}
 
-<p>
-The trail provides a stunning view of the meandering Colorado River with the far back Vermillion Canyon as background.
+The trail provides a stunning view of the meandering Colorado River with the Vermillion Canyon walls as background.
 
 {{< figure src="/img/2017/12/spencer-trail-l.jpg" >}}
 
-<p>
-But don't get too distracted by the view, because sections of the trail are narrow and steep, and even slippery!
+
+But don't get too distracted by the view, because sections of the trail are narrow, steep and even slippery!
 
 {{< figure src="/img/2017/12/spencer-trail-d.jpg" >}}
 
-<p>
 At the end of the trail is a vast plateau formed with Kayenta and Navajo sandstone.
 
 {{< figure src="/img/2017/12/spencer-trail-e.jpg" >}}
