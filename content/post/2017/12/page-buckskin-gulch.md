@@ -16,7 +16,7 @@ Trip Log:
 * 12:59pm - Snack time!
 * 01:24pm - Start to hiking again
 * 03:19am - Take an unusually long break (15~20 minutes) and exchange information with the only other hiker we met on the trail.
-* 04:20pm - back to the parking lot
+* 04:20pm - Back to the parking lot
 
 <!--more-->
 
