@@ -1,6 +1,6 @@
 ---
 title: "PCT - Lake Morena to Noble Canyon DAY 2"
-date: 2017-05-27T08:32:06-09:00
+date: 2017-05-28T08:32:06-09:00
 draft: true
 categories:
   - Hiking
@@ -9,4 +9,14 @@ categories:
 ---
 
 Start: Fred Canyon, PCT mile 32.6
-Finish:
+Finish: Mount Laguna Campground, PCT mile 47.5
+
+Our second involved hiking up from Fred Canyon at around 4,000 feet elevation to Mount Laguna which is at 5,900 feet elevation. Suffice to say, this was a day of up-up-up. The trail started meandering out of Fred Canyon before hitting Long Canyon. This section of the trail was very exposed to the sun and we were happy that we got an early start.
+
+After 3 or 4 hours of hiking in the exposed sun, we finally reached Mount Laguna which actually has some trees! We took a break for lunch at Burnt Ranchera Campground and Panda made himself a cup of coffee. Burnt Ranchera seems like as good as place to camp but this was not our destination. We wanted to reach the Mount Laguna Campground.
+
+Back on the PCT after lunch, we could really feel our legs and packs. We both determined that we need new packs if we want any kind of comfort on the trail. The next 8 miles was pretty exposed too. A fire had ravaged this area within the past 10 years and it was slowly coming back. However, this section is filled with long, panoramic views of the Anza Borrego dessert. The contrast between Lagunas and the dessert quite stark.
+
+At around 530pm, we finally reached a lookout where we could make our way to Mount Laguna Campground where we camped for the night.
+
+What a long day this was. With both of us complaining about our packs and smelling like we hadn't showered in weeks, we instantly fell into a deep slumber in our tent.
