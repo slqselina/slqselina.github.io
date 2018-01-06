@@ -14,7 +14,7 @@ After having some hot sweet soybean pudding in one of the busy restaurants in th
 
 From Longshan Temple to Bopiliao Historic Neighborhood was a short walk, but we didn’t find it attractive…
 
-Then Panda felt hungry, so we started to look for food and end up at the Lonely-Planet-recommended Ay-Chung Flour-Rice Noodle in the busy Ximending neighborhood. We would never miss this tiny restaurant because the waiting line along the corridor was extremely long even though it was raining hard! Such an enthusiasm these gourmets showed! Panda joined them and finally got a small disposable bowl filled with noodle, broth, pork intestines (yes, eating pork or beef intestines is common in Asia…) and a bit of green leave vegetable. He finished it quickly on his feet and concluded that it tasted not bad, but not as amazing as he had expected, probably because his western taste differed from Asian ones.
+Then Panda felt hungry, so we started to look for food and end up in front of Ay-Chung Flour-Rice Noodle in the busy Ximending neighborhood recommended by Lonely Planet. We would never miss this tiny restaurant because the waiting line along the corridor was extremely long even though it was raining hard! Such an enthusiasm these gourmets showed! Panda joined them and finally got a small disposable bowl filled with noodle, broth, pork intestines (yes, eating pork or beef intestines is common in Asia…) and a bit of green leave vegetable. He finished it quickly on his feet and concluded that it tasted not bad, but not as amazing as he had expected, probably because his western taste differed from Asian ones.
 
 
 {{< figure src="/img/2016/11/chiang-dao-9.jpg" title="Doi Chiang Dao from afar" >}}
