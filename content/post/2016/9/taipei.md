@@ -9,10 +9,11 @@ categories:
 
 As the typhoon Meranti was on its way, it was stormy in Taipei most time of the day, but we didn’t want to give up sightseeing since our stay in Taiwan would not be long.
 
-<!--more-->
 After having some hot sweet soybean pudding in one of the busy restaurants in the underground shopping center by Taipei Station as breakfast, first of all we took the subway to get to Longshan Temple, one of the most important historic Buddhist temples in Taipei firstly built by the early immigrants from China’s southeast Fujian Province during the 18th century. The glossy colorful curvy roof ridge was easy to be noticed from far. We often saw this so-called “swallow tail” style ridge when traveling in south Fujian Province, though not always with the same grandiosity. Because of the constant restorations, the temple didn’t seem as old as it was supposed to be. We took a walk through the entire building complex and found that it not enshrined not only Buddha and Bodhisattvas but also a series of Chinese Taoist gods such as Mazu-the sea goddess, Lord Guan-the martial god, Yue Lao-the god of matchmaking, love and marriage, Wenchang Dijun-the god of academy and examines … and even Hua Tuo, a famous physician in China’s history.  The golden hall which housed Guanyin (or “God of Mercy”) was the most impressive to us, especially its brilliant caisson ceiling.
 
 {{< figure src="/img/2016/9/taipei1.jpg" title="Longshan Temple" >}}
+
+<!--more-->
 
 From Longshan Temple to Bopiliao Historic Neighborhood was a short walk, but we didn’t find it attractive…
 {{< figure src="/img/2016/9/taipei2.jpg" title="Bopiliao Historic Neighborhood" >}}
