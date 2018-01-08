@@ -138,6 +138,11 @@
   </url>
   
   <url>
+    <loc>http://english-su.com/2016/09/one-day-in-taipei/</loc>
+    <lastmod>2016-09-14T19:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://english-su.com/2016/06/kao-yai-national-park/</loc>
     <lastmod>2016-06-22T19:30:00-07:00</lastmod>
   </url>
@@ -222,6 +227,12 @@
   <url>
     <loc>http://english-su.com/categories/tahoe/</loc>
     <lastmod>2017-12-02T20:29:34-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://english-su.com/categories/taiwan/</loc>
+    <lastmod>2016-09-14T19:30:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
