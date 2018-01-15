@@ -10,9 +10,10 @@ categories:
 {{< figure src="/img/2016/9/kenting1.jpg" title="" >}}
 
 Honestly, my first impression about Kenting was not good at all. It was cloudy when we arrived at Kenting Street yesterday, where our hotel was located. The beaches recently visited by the typhoon looked dirty and the ocean was grayish. Also, we found the local merchants were not as nice and smiley as those in Taipei or Tainan, except the owner of our hotel. It is said that Kenting Street was created merely for developing local tourism, no wonder we felt it lacked sense of history and the restaurants were pricy.
-{{< figure src="/img/2016/9/kenting2.jpg" title="First day in Kenting" >}}
 
 <!--more-->
+
+{{< figure src="/img/2016/9/kenting2.jpg" title="Oh no...First day in Kenting">}}
 
 When we were just upset about our decision of coming here, this morning the weather turned out to be a great surprise! It was super sunny outside, we were excited enough to ignore the power cut-off all over Hengchun Peninsula and quickly get ready to tour around on our motorbike.
 
