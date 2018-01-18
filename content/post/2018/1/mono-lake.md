@@ -1,6 +1,7 @@
 ---
 title: Mono Lake
 date: 2018-01-07T19:30:00-07:00
+draft: true
 categories:
   - Travel
   - USA
