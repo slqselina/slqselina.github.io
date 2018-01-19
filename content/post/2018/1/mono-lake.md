@@ -9,13 +9,13 @@ categories:
 ---
 {{< figure src="/img/2018/1/monolake1.jpg" title="" >}}
 
-It look us 2 hours and 20 minuets to drive down to Mono Lake From South Lake Tahoe, California. While enjoying the snow-capped landscapes of Sierra Nevada, we also seized the chance to top the tank in the State of Nevada, where gas is much cheaper.
+It's a 2 hours and 20 minuets  drive down to Mono Lake from South Lake Tahoe, California. While scenice drive with vistas of the snow-capped landscapes of the Sierras, we also seized the opportunity to top off the tank in the State of Nevada, where gas is much cheaper.
 
 <!--more-->
 
 {{< figure src="/img/2018/1/monolake2.jpg" title="" >}}
 
-It was sunny all the way until we were approaching Lee Vining, the nearest town to Mono Lake. It seemed like a lot of vapor was trapped in the valley forming thick clouds over the lake.
+It was sunny until we began approaching Lee Vining, the nearest town to Mono Lake. It seemed like vapor was trapped in the valley forming thick clouds over the lake.
 
 {{< figure src="/img/2018/1/monolake3.jpg" title="" >}}
 

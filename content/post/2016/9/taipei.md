@@ -14,7 +14,7 @@ After breakfasting on some hot, sweet soybean pudding in one of Taipei Station's
 
 <!--more-->
 
-It was a short walkk from Longshan Temple to Bopiliao Historic Neighborhood but we didn’t find it much to write home about.
+It was a short walk from Longshan Temple to Bopiliao Historic Neighborhood but we didn’t find it much to write home about.
 {{< figure src="/img/2016/9/taipei2.jpg" title="Bopiliao Historic Neighborhood" >}}
 
 Hungry crept back into Panda's belly so we started to look for food. We ended up finding [Ay-Chung Flour-Rice Noodle](https://www.yelp.com/biz/%E9%98%BF%E5%AE%97%E9%BA%B5%E7%B7%9A-%E5%8F%B0%E5%8C%97%E5%B8%82%E8%90%AC%E8%8F%AF%E5%8D%80) located in the busy Ximending neighborhood and recommended by Lonely Planet. We would never miss this tiny restaurant because despite the steady rain,  a long line snaked along its corridor as anxious Asian foodies stood ready to check another one of Taipei's legendary nosheries of their "must-eat-at" list. Such an enthusiasm these gourmets showed! Panda joined them and finally got a small disposable bowl filled with broth, noodles, pork intestines (yes, eating pork or beef intestines is common in Asia) and a bit of green leaf vegetables. He finished it quickly and concluded that it tasted: "not bad". But it was not as amazing as he had expected, probably because his western taste buds differed from those of sensitive Asians.
