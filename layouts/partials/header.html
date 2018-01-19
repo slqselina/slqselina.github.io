@@ -6,6 +6,7 @@
 -->
 <html>
     <head>
+
         {{ with $.Scratch.Get "generalTitle" }}
             <title>{{ . }}</title>
         {{ else }}
@@ -34,8 +35,22 @@
 
         {{ template "_internal/twitter_cards.html" . }}
         <!--[if lte IE 8]><script src="/js/ie/html5shiv.js"></script><![endif]-->
-        
+
         {{ template "_internal/opengraph.html" . }}
+        <!-- Adding my og:image -->
+
+        {{ with .Params.images }}
+          {{ range first 6 . }}
+            <meta property="og:image" content="{{ . | absURL }}" />
+          {{ end }}
+        {{ end }}
+
+        {{ with .Site.Params.images }}
+          {{ range first 6 . }}
+            <meta property="og:image" content="{{ . | absURL }}" />
+          {{ end }}
+        {{ end }}
+
         {{ template "_internal/schema.html" . }}
         {{ template "_internal/google_news.html" . }}
 

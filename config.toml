@@ -18,7 +18,7 @@ googleAnalytics = "UA-89104470-2"
     socialAppearAtBottom = true
     # set this to the section name if section is not post
     viewMorePostLink     = "/"
-
+    images = ["/img/logo.jpg"]
 # Optional Params
     categoriesByCount    = true
     includeReadingTime   = true

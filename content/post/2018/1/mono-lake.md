@@ -4,7 +4,9 @@ date: 2018-01-07T19:30:00-07:00
 categories:
   - Travel
   - USA
-
+images:
+ - "/img/2018/1/monolake1.jpg"
+ - "/img/2018/1/monolake2.jpg"
 ---
 {{< figure src="/img/2018/1/monolake1.jpg" title="" >}}
 
