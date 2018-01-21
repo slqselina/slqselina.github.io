@@ -27,7 +27,7 @@ Our first stop was a nice county park that included the short "Mono Lake Boardwa
 
 
 
-Our second stop really should have been our last as it offers the least: The Old Marina. This is default, 10 minutes road-trip stop for those pressed for time as they are buzz up the 395 from Vegas or LA to Reno or Tahoe. You can get a glimpse of the lake and a few impressive "Tufas" but you won't get the full experience. For us, it was a perfect place to stroll around as we waited for the sun to break the clouds.
+Our second stop really should have been our last as it offers the least: The Old Marina. This is the default, 10 minute road-trip stop for those pressed for time as they are buzz up the 395 from Vegas or LA to Reno or Tahoe. You can get a glimpse of the lake and a few impressive "Tufas" but you won't get the full experience. For us, it was a perfect place to stroll around as we waited for the sun to break the clouds.
 
 {{< figure src="/img/2018/1/monolake5.jpg" title="" >}}
 
