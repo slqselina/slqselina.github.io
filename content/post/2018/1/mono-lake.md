@@ -17,13 +17,17 @@ It's a 2 hours and 20 minuets  drive down to Mono Lake from South Lake Tahoe, Ca
 {{< figure src="/img/2018/1/monolake2.jpg" title="" >}}
 
 It was sunny until we began approaching Lee Vining, the nearest town to Mono Lake. It seemed like vapor was trapped in the valley forming thick clouds over the lake.
-
-{{< figure src="/img/2018/1/monolake3.jpg" title="" >}}
 At over 1 million years old, Mono Lake is one of the oldest lakes in America. It is famous with modern visitors for it's tufas or towers.  These uniquely shaped structures are a type of limestone and made from years of calcium buildup underwater.
 
-Our first stop really should have been our last as it offers the least: The Old Marina. This is default, 10 minutes road-trip stop for those pressed for time as they are buzz up the 395 from Vegas or LA to Reno or Tahoe. You can get a glimpse of the lake and a few impressive "Tufas" but you won't get the full experience. For us, it was a perfect place to stroll around as we waited for the sun to break the clouds.
+
+{{< figure src="/img/2018/1/monolake3.jpg" title="" >}}
+Our first stop was a nice county park that included the short "Mono Lake Boardwalk Trail", a 10 minute jaunt through the marshy north shore of the lake.
 
 {{< figure src="/img/2018/1/monolake4.jpg" title="" >}}
+
+
+
+Our second stop really should have been our last as it offers the least: The Old Marina. This is default, 10 minutes road-trip stop for those pressed for time as they are buzz up the 395 from Vegas or LA to Reno or Tahoe. You can get a glimpse of the lake and a few impressive "Tufas" but you won't get the full experience. For us, it was a perfect place to stroll around as we waited for the sun to break the clouds.
 
 {{< figure src="/img/2018/1/monolake5.jpg" title="" >}}
 
@@ -73,7 +77,7 @@ LA people have since made up for their sins by buying Priuses and Teslas and mak
 This wasn't really a "hiking" trip for us but there is an interesting hike nearby.
 Panum Crater has a great view of the lake as well as other craters in the surrounding area. There is a trail which circles the crater rim in addition to a steep, sandy trail that climbs up to the "plug".
 
-This crater is only about 700 years old and is part of a chain of craters in the area called the "Mono–Inyo Craters". They all have the potential to produce explosive eruptions however they only erupt once every 500 or 600.
+This crater is only about 700 years old and is part of a chain of craters in the area called the "Mono–Inyo Craters". They all have the potential to produce explosive eruptions however they only erupt once every 500 or 600 years.
 
 We would have loved to explore this area but we were a little short on time so we climbed to the highest point, took a short break and head back.
 
