@@ -7,7 +7,7 @@ categories:
 ---
 {{< figure src="/img/2018/2/genoa1.jpg" title="" >}}
 
-
+Part of Carson Valley Trails, the Sierra Canyon and Genoa Loop trails is a 7ish mile loop that starts in the town of [Genoa](https://en.wikipedia.org/wiki/Genoa,_Nevada). With most of our favorite Tahoe trails still covered in snow, this was a great Sunday hike. The highlight of the trail is the halfway mark: Genoa Falls.
 
 <!--more-->
 

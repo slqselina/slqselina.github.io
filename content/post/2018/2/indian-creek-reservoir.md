@@ -7,7 +7,7 @@ categories:
 ---
 
 {{< figure src="/img/2018/2/indian-creek-reservoir9.jpg" title="" >}}
-
+Part of Alpine County (population 1,100), Indian Creek Reservoir has some short hiking trails. On this Sunday, a short afternoon jaunt up to Summit lakes was in the works for us...
 <!--more-->
 
 {{< figure src="/img/2018/2/indian-creek-reservoir2.jpg" title="" >}}
