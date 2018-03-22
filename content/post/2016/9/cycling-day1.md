@@ -1,7 +1,6 @@
 ---
 title: Cycling East Taiwan - Day 1
 date: 2016-09-22T19:30:00-07:00
-Draft: true
 categories:
   - Travel
   - Taiwan
@@ -10,23 +9,30 @@ categories:
 
 Taitung -> Luye -> Guanshan -> Chishang
 {{< figure src="/img/2016/9/cycle-day1-a.jpg" title="Ready to depart!" >}}
-The bike trail between the city of Taitung and Luye mostly goes along the highway. Taitung as a city didn’t seem to have anything special, but we did appreciate its well-done bike trail transformed from an old railway that goes through a lot of vivid green.
+The bike trail between the city of Taitung and Luye mostly follows the highway. Taitung as a city didn't feel special, but network of bike trails was much appreciated. These trails run for miles along an old railway snaking from the rural areas right into the downtown.
+<!--more-->
 
-We stopped by the Luye Shrine rebuilt after Japanese occupation of Taiwan on our way.
+After a gradual climb out of Taitung and a cruise into the East Rift vally, we stopped by the Luye Shrine. It was rebuilt after the Japanese occupation of Taiwan.
 
-{{< figure src="/img/2016/9/cycle-day1-b.jpg" title="The location of this temple used to be where the original Luye Shrine was." >}}
+{{< figure src="/img/2016/9/cycle-day1-b.jpg" title="The location of this temple is to be where the original Luye Shrine was." >}}
 
 {{< figure src="/img/2016/9/cycle-day1-c.jpg" title="The new Luye Shrine" >}}
 
-Our original plan was to spend the night at a pension named “Frog & Pheasant” located in the suburb of Luye (Taitung County). From online pictures, the pension was surrounded by rice paddies and rolling mountains. Agoda showed it would cost 1400 NTD a night, which was a bit above our budget, but we thought maybe it was worth it. We didn’t book it because we already learnt from Taiwanese TV news that due to mainland China’s government’s decision of blocking down of tourist groups to Taiwan as a political revenge strategy and the recent passage of seasonal typhoons, the whole tourism industry in Taiwan, especially on the east side was very down. We often saw on the TV screen that some hotel owners were complaining about empty rooms and loosing investment. Walking in should be a problem, we thought. When we reached the yellow pension building almost at noon, it turned out to be totally locked up. Without being able to find any human nearby, we dialed the pension’s contact number shown online and a male voice answered the phone. To our surprise, he quoted 2000 NTD for a night. When we asked why so much, he responded that because we were still in the high season! Did it mean the TV news we saw along the trip were all fake stories? No, the man on phone was just taking his chance to rip us off without being aware that we were right in front of the empty yellow pension building. He also emphasized that we would need to wait for 3 hours before being able to check in, as if the pension were super busy. Even after we mentioned that the price shown on Agoda was only 1400 NTD, he still tried to save his face by saying: “It’s cheaper because it’s Agoda.” At that point, we decided not to waste more time with that dishonest businessman and moved on hoping to try our luck in Chishang (Taitung County).
+We learned from Taiwanese news that the mainland Chinese government had just put in place a policy of blocking tourist groups from departing for Taiwan. This was in retaliation to political statements made by Taiwan's president. Coupled with the passage of seasonal typhoons, tourism on Taiwan during our stay was way down. We often saw news stories on the local TV stations featuring Taiwanese hotel owners and restaurateurs complaining about empty rooms and lost investment. For our trip, this was a gift. Walking into a hotel and getting a room was never a problem.
 
-{{< figure src="/img/2016/9/cycle-day1-d.jpg" title="That yellow building is Frog & Pheasan, the pension we originally planned to stay and later gave up." >}}
+Our original plan was to spend the night at a guesthouse named “Frog & Pheasant” located in the suburb of Luye (Taitung County). From online pictures, the place was surrounded by rice paddies and rolling mountains. Agoda showed it would cost 1400 NTD a night, a bit over our budget but worth it if the scenery was pleasing.
 
-The steep upslope of Mt. Baohua in Guanshan region proposed us a tough challenge, but then going downhill was quite a payoff. In Guangdian Village, we bought some bottled water and drinks in a tiny home-store run by un old couple. The old lady who attended us kindly invited us to sit down and have a rest. Her husband was holding against his chest their asleep granddaughter, facing an old-fashioned TV mounted high up on the wall playing Taiwanese shows. They showed curiosity about Panda’s western looking and asked about our cycling plan. The store, functioning as their house as well, was an austere rural house setting, dark and rundown, but we were touched by the hospitality and will of communication of the local seniors.
+ When we reached the yellow guesthouse building at noon, it was totally locked up. Without being able to find any humans nearby, we dialed the pension’s contact number shown online and a male voice answered the phone. To our surprise, he quoted 2,000 NTD for a night. When we asked why so much, he responded that **we were still in the high season!** Were those news stories we saw during our stay just _fake news_?
 
-{{< figure src="/img/2016/9/cycle-day1-e.jpg" title="We took a break in Mt. Baohua next to the signs." >}}
+ A more probable explanation was that this gentleman thought he could rip us off without being aware that we standing right in front of his empty yellow guesthouse. To add insult to injury, he explained that we would have to wait 3 hours before checking in. We politely pointed out that the listed price on Agoda was only 1400 NTD but he tried to save face by saying: “It’s cheaper because it’s Agoda.” At that point, we decided not to waste more time with that dishonest businessman and moved on. We hoped we'd have better luck in Chishang (Taitung County).
 
-After passing a bridge, the bike trail was very flat, but the last few kilometers appeared longer than it really was because we were kind of worn out. What really cheered us up was the nice bike trail started from suburb Chishang going through vast rice paddies, a long which some tourists were peddling cutely designed carts for sightseeing. When the lofty green mountain peaks piercing through the thick clouds in the sky came into our view, we felt so lucky to instead choose to stay in this stunning town! The hotel which was also selling food and rice across 7-Eleven only cost 1200 NTD a night, perfect location and ideal price to us!
+{{< figure src="/img/2016/9/cycle-day1-d.jpg" title="That yellow building is Frog & Pheasant, the pension we originally planned to stay and later gave up." >}}
+
+The steep upslope of Mt. Baohua in Guanshan region gave us a tough challenge, but the downhill was delightful payoff. In Guangdian Village, we purchased some bottled water and drinks in a small roadside shop run by an old couple. The old lady kindly invited us to sit down and have a rest. Her husband was holding their sleeping granddaughter while watching Taiwanese shows on an old-fashioned TV mounted on the wall. They were curious about Panda’s western features and asked about our cycling plan. The store, which doubled as their house, was an austere rural house, dark and rundown.  However, we were touched by their hospitality and an opportunity to talk to the local seniors.
+
+{{< figure src="/img/2016/9/cycle-day1-e.jpg" title="We took a break on top of Mt. Baohua next to the signs." >}}
+
+After crossing a bridge, the bike trail flattened out. The last few kilometers felt much longer because of our tired legs. We started to cheer up when we reached the nice bike trail that started on the outskirts of Chishang. It meandered through vast rice paddies. Along the trails were some tourists peddling cute carts designed for sightseeing. As the green mountain peaks came into our view, we felt lucky to stay in this stunning town! The hotel which also had food only cost 1200 NTD a night, perfect location and ideal price to us!
 
 {{< figure src="/img/2016/9/cycle-day1-f.jpg" title="Feeling amazed and happy on our way to Chishang" >}}
 
