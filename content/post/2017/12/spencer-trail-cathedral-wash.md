@@ -3,6 +3,7 @@ title: "Spencer Trail and Lower Cathedral Wash, AZ"
 date: "2017-12-14T20:29:34-07:00"
 categories:
   - Travel
+  - Day Hikes
   - USA
 ---
 
@@ -60,13 +61,19 @@ We walked to the edge of the cliffs and sat down to snack while enjoying the can
 {{< figure src="/img/2017/12/spencer-trail-i.jpg" >}}
 
 {{< figure src="/img/2017/12/spencer-trail-j.jpg" >}}
+There is a sign close to the start/end of Spencer Trail.
 
 {{< figure src="/img/2017/12/on-road-2.jpg" >}}
+Trying to make a full use of the rest of the day, after finishing Spencer Trail, we drove right to the nearby trailhead of Cathedral Wash, which is divided into Upper and Lower sections. We only had enough time to hike the latter one, which ends at the bank of Colorado River.
 
 {{< figure src="/img/2017/12/cathedral-wash-a.jpg" >}}
+Contrast to Spencer Trail which is fully exposed to the sun, the trail through Lower Cathedral Wash is mostly in the shade due to its special geological composition, which resembles cracked puff pastries. We were tiny ants who were marching along the open cracks in the pastries and climbing down numerous puff layers until reaching the bottom.
 
 {{< figure src="/img/2017/12/cathedral-wash-b.jpg" >}}
+It was fun to explore the extremely quiet labyrinth-like wash in the daytime, kicking tumbleweeds like balls or shouting to experiment the echo.
 
 {{< figure src="/img/2017/12/cathedral-wash-c.jpg" >}}
+But we wouldn't choose to be there at night. With the afternoon sunshine fading, it looked more and more like a perfect setting for horror movies.
 
 {{< figure src="/img/2017/12/cathedral-wash-d.jpg" >}}
+Luckily we did make our way out before it was totally dark!
