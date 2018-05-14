@@ -10,15 +10,20 @@ Hawaiiloa Ridge trail is probably Penguin's favorite among all the hikes we've d
 
 <!--more-->
 
-{{< figure src="/img/2018/3/0307a.jpg" title="The open view at the first section of the trail is already stunning." >}}
+{{< figure src="/img/2018/3/0307a.jpg" title="" >}}
+The open view at the first section of the trail is already stunning.
 
-{{< figure src="/img/2018/3/0307b.jpg" title="A tree tunnel formed by strawberry guava, the most invasive plant in Hawaii native to Brazil." >}}
+{{< figure src="/img/2018/3/0307b.jpg" title="" >}}
+A tree tunnel formed by strawberry guava, the most invasive plant in Hawaii native to Brazil.
 
-{{< figure src="/img/2018/3/0307k.jpg" title="Christmas berry along the trail, also native to Brazil." >}}
+{{< figure src="/img/2018/3/0307k.jpg" title="" >}}
+Christmas berry along the trail, also native to Brazil.
 
-{{< figure src="/img/2018/3/0307c.jpg" title="The last section of the trail consists of big steep stairs, which is kind of challenging." >}}
+{{< figure src="/img/2018/3/0307c.jpg" title="" >}}
+The last section of the trail consists of big steep stairs, which is kind of challenging.
 
-{{< figure src="/img/2018/3/0307d.jpg" title="Then comes up the biggest reward！" >}}
+{{< figure src="/img/2018/3/0307d.jpg" title="" >}}
+Then comes up the biggest reward！
 
 {{< figure src="/img/2018/3/0307f.jpg" title="" >}}
 
@@ -26,6 +31,8 @@ Hawaiiloa Ridge trail is probably Penguin's favorite among all the hikes we've d
 
 {{< figure src="/img/2018/3/0307h.jpg" title="" >}}
 
-{{< figure src="/img/2018/3/0307i.jpg" title="Best view with the best matcha macs = best lunch break." >}}
+{{< figure src="/img/2018/3/0307i.jpg" title="" >}}
+Best view with the best matcha macs = best lunch break.
 
-{{< figure src="/img/2018/3/0307j.jpg" title="It rained a little bit on our way back, but we saw a rainbow across the valley as a tradeoff." >}}
+{{< figure src="/img/2018/3/0307j.jpg" title="" >}}
+It rained a little bit on our way back, but we saw a rainbow across the valley as a tradeoff.
