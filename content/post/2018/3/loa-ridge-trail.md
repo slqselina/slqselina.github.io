@@ -26,6 +26,6 @@ Hawaiiloa Ridge trail is probably Penguin's favorite among all the hikes we've d
 
 {{< figure src="/img/2018/3/0307h.jpg" title="" >}}
 
-{{< figure src="/img/2018/3/0307i.jpg" title="Best view with the best matcha macs = best break time." >}}
+{{< figure src="/img/2018/3/0307i.jpg" title="Best view with the best matcha macs = best lunch break." >}}
 
 {{< figure src="/img/2018/3/0307j.jpg" title="It rained a little bit on our way back, but we saw a rainbow across the valley as a tradeoff." >}}
