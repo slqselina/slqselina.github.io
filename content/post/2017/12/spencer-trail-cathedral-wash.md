@@ -76,4 +76,4 @@ It was fun to explore the extremely quiet labyrinth-like wash in the daytime, ki
 But we wouldn't choose to be there at night. With the afternoon sunshine fading, it looked more and more like a perfect setting for horror movies.
 
 {{< figure src="/img/2017/12/cathedral-wash-d.jpg" >}}
-Luckily we did make our way out before it was totally dark!
+Luckily we did make our way out before it was totally dark! It took us less than 2 hours out and back.
