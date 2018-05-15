@@ -29,5 +29,5 @@ There are some slopes between Chishang and the next quite town Fuli, but they ar
 After reaching the run-down Dongli, there is a 10km-long smooth and level bike trail built on an abandoned railway which goes all the way to Yuli with idyllic countryside scenery.
 {{< figure src="/img/2016/9/cycle-day2-i.jpg" title="Bike trail between Dongli and Yuli" >}}
 
-Based on comments on google map, we found this extremely cheap (only 700 or 800 NTD per night) Fu Jin Hotel in Yuli. The old lady at the reception was nice enough to let us to tour the guest rooms and pick out whichever one we liked. The building was apparently old, and so was the furniture in the room, but at least it was clean. AC and hot shower were functioning well. With the little money we paid, what else could we possibly complain? It was a deal!
+Based on comments on google map, we found this extremely cheap (only 700 or 800 NTD per night) [Fu Jin Hotel](https://goo.gl/maps/x3GSLDvSpy62) in Yuli. The old lady at the reception was nice enough to let us to tour the guest rooms and pick out whichever one we liked. The building was apparently old, and so was the furniture in the room, but at least it was clean. AC and hot shower were functioning well. With the little money we paid, what else could we possibly complain? It was a deal!
 {{< figure src="/img/2016/9/cycle-day2-j.jpg" title="Town of Yuli" >}}
