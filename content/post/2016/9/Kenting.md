@@ -8,7 +8,7 @@ categories:
 ---
 {{< figure src="/img/2016/9/kenting1.jpg" title="" >}}
 
-Honestly, my first impression about Kenting was not good at all. It was cloudy when we arrived on the main street where our hotel was located. The beaches were recently visited by a typhoon and looked dirty. The ocean was grayish. Also, we didn't find the local merchants as nice and smiley as those in Taipei or Tainan with the exception of the owner of our hotel. It is said that Kenting Street was created for local tourism. No wonder we felt it lacked sense of history and the restaurants were pricy.
+Honestly, our first impression about Kenting was not good at all. It was cloudy when we arrived on the main street where our hotel was located. The beaches were recently visited by a typhoon and looked dirty. The ocean was grayish. Also, we didn't find the local merchants as nice and smiley as those in Taipei or Tainan with the exception of the owner of our hotel. It is said that Kenting Street was created for local tourism. No wonder we felt it lacked sense of history and the restaurants were pricy.
 
 <!--more-->
 
