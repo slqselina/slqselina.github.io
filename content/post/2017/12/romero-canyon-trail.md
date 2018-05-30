@@ -10,7 +10,7 @@ categories:
 {{< figure src="/img/2017/12/romero-canyon-trail-a.jpg" >}}
 
 ### Trip log:
-* 08:47pm - Start out from Romero Canyon Trailhead
+* 08:47am - Start out from Romero Canyon Trailhead
 * 10:50am - Reach Romero Pools
 * 11:40am - Start to hike back
 * 01:28pm - Back to the car
