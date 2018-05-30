@@ -10,6 +10,8 @@ categories:
 
 {{< figure src="/img/2018/5/lake-dardanelles1.jpg" >}}
 
+
+***This is a moderate 8-mile out-and-back hike that we just did on Memorial Day.***
 ### Trip log:
 * 08:38am - Start out from Big Meadow Trailhead
 * 09:02am - Hit SCOTSS LK & MEISS MOW Junction, take the one towards MEISS MOW
