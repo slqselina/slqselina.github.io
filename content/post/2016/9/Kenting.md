@@ -50,7 +50,7 @@ We found ponds formed by ocean water trapped among rocks. These tide pools were 
 
 {{< figure src="/img/2016/9/kenting13.jpg" title="Natural pool" >}}
 
-By the time we left Jialeshui Scenic Garden, the sun had begun to set. We jumped on the motorbike and started to book it towards White Beach, famous as the set of the Oscar-awarded movie [Life of Pi](http://www.imdb.com/title/tt0454876) (directed by Pingtung, Taiwan native [Ang Lee](www.imdb.com/name/nm0000487)).
+By the time we left Jialeshui Scenic Garden, the sun had begun to set. We jumped on the motorbike and started to book it towards White Beach, famous as the set of the Oscar-awarded movie [Life of Pi](http://www.imdb.com/title/tt0454876) (directed by Pingtung, Taiwan native [Ang Lee](http://www.imdb.com/name/nm0000487)).
 
 We were expecting peaceful beach sunset but to our disappointment, the isolated virgin beach of the movie was missing. It was neither quiet nor clean. After taking a nap on the beach, we decided to call it a day and go back for dinner.
 
