@@ -3020,6 +3020,10 @@ body.is-menu-visible #menu {
 #content figure {
   margin-bottom: 10px;
 }
-#recent-posts h3{
-  font-family:"Trebuchet MS", Helvetica, sans-serif;
+#recent-posts h3 {
+  font-family:Avenir, Helvetica, sans-serif;
+}
+#recent-posts li h3{
+  color:grey;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
