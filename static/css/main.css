@@ -1389,7 +1389,7 @@ h2 {
   font-size: 1.1em
 }
 h3 {
-  font-size: .9em
+  font-size: 1.2em
 }
 h4 {
   font-size: .7em
@@ -2139,7 +2139,7 @@ ul.posts article header {
   -ms-flex: 1
 }
 ul.posts article header h3 {
-  font-size: .7em;
+  font-size: .8em;
   margin-top: .125em
 }
 ul.posts article header .published {
@@ -2830,7 +2830,7 @@ body.is-menu-visible #wrapper {
   width: 20em
 }
 #intro header h2 {
-  font-size: 1.7rem;
+  font-size: 1.5em;
   font-weight: 900
 }
 #intro header p {
@@ -3019,4 +3019,7 @@ body.is-menu-visible #menu {
 }
 #content figure {
   margin-bottom: 10px;
+}
+#recent-posts h3{
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
 }
