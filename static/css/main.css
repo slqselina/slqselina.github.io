@@ -1374,7 +1374,7 @@ h6 {
   font-weight: 800;
   letter-spacing: .25em;
   line-height: 1.65;
-  margin: 0 0 1em 0
+  margin: 0 0 0 0
 }
 h1 a,
 h2 a,
@@ -3026,4 +3026,9 @@ body.is-menu-visible #menu {
 #recent-posts li h3{
   color:grey;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#menu h3 {
+  font-size: 0.7em;
+  font-family: Avenir,Helvetica,sans-serif;
 }
