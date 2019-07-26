@@ -1,5 +1,5 @@
 ---
-title: A Day Hike in Genoa
+title: First Day in the town of Mt. Shasta
 date: 2019-05-10T19:30:00-07:00
 categories:
   - Travel
