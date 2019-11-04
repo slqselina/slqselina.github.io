@@ -3,6 +3,7 @@ title: Burstarse Falls Trail
 date: 2019-05-11T19:30:00-07:00
 categories:
   - Day Hikes
+  - Travel
   - USA
 ---
 {{< figure src="/img/2019/5/burstarse-falls-trail1.jpg" title="" >}}
