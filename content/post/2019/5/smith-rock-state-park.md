@@ -9,7 +9,7 @@ categories:
 以前曾对位于俄勒冈中部的史密斯岩石州立公园略有耳闻，今日亲身游历后感到不虚此行。
 
 <!--more-->
-才从停车场离开没走几步路来到观景台，便已被眼前的嶙峋怪石与绿水丛林的奇异组合深深吸引。Panda提议说要走Misery Loop Trail，我一看公园地图上对该路线的难度标注是“难”，便持反对意见，认为这会置娃和狗于危险，且我私心也认为自己难以应付。
+才从停车场离开没走几步路来到观景台，便已被眼前的嶙峋怪石与绿水丛林的奇异组合深深吸引。Panda提议说要走Misery Loop Trail，我一看公园地图上对该路线的难度标注是“难”，便持反对意见，认为这会置宝宝和狗狗于危险，且我私心也认为自己难以应付。
 {{< figure src="/img/2019/5/smith-rock-state-park/smith-rock-state-park2.jpg" title="" >}}
 
 但过桥后我仰望山上步道，发现其实它并不像从远处看起来那么恐怖，而且较难走的地方还有修筑的木梯，顿时便改变了立场，毫无异议地跟着Panda向上走去。身处山腰，放眼望去皆是犹如被施了魔法般奇形怪状的岩石，随着脚步移动而变幻形象，当真是“横看成岭侧成峰”。
@@ -20,7 +20,7 @@ categories:
 {{< figure src="/img/2019/5/smith-rock-state-park/smith-rock-state-park5.jpg" title="" >}}
 
 来到山顶，遥望一方平原在云里雾里依旧青翠欲滴，宛若记忆中站在葡萄牙辛特拉的城堡上瞭望……
-{{< figure src="/img/2019/5/smith-rock-state-park/smith-rock-state-park6.jpg" title="宝逸在花草丛中尽情撒欢" >}}
+{{< figure src="/img/2019/5/smith-rock-state-park/smith-rock-state-park6.jpg" title="" >}}
 
 转到山的另一面又是别样风景，当听其它游客说不远处的擎天一柱是颇有名的攀岩目的地时我不禁大吃一惊，难以想象那该是何等惊险！世上总有些天不怕地不怕敢于挑战自然的人，想想自己光是站在高处就已头晕腿软，实在惭愧……
 {{< figure src="/img/2019/5/smith-rock-state-park/smith-rock-state-park7.jpg" title="五指山？" >}}
