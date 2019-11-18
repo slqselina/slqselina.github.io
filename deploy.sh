@@ -1,4 +1,5 @@
 #!/bin/bash
+chmod -R 755 public/*
 
 git subtree add --prefix=public git@github.com:slqselina/slqselina.github.io.git master --squash
 git subtree pull -q -m"pull latest master `date "+%Y-%m-%d-%H%M%S"`" --prefix=public git@github.com:slqselina/slqselina.github.io.git master
