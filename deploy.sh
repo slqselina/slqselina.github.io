@@ -1,11 +1,11 @@
 #!/bin/bash
 
-git subtree add --prefix=public git@github.com:slqselina/slqselina.github.io.git master --squash     
+git subtree add --prefix=public git@github.com:slqselina/slqselina.github.io.git master --squash
 git subtree pull -q -m"pull latest master `date "+%Y-%m-%d-%H%M%S"`" --prefix=public git@github.com:slqselina/slqselina.github.io.git master
 
 # prepare public folder
 rm -R public/*
-git co public/CNAME
+git checkout public/CNAME
 hugo -t hugo-future-imperfect
 
 git status
