@@ -1,5 +1,9 @@
 # english-su.com
 
+## REQUIREMENTS
+
+To build this site, we require [Hugo version 0.40.1](https://github.com/gohugoio/hugo/releases/tag/v0.40.1)
+
 ### Start the server with the robust theme
 
 Run this command in this directory to use the hugo-future-imperfect
