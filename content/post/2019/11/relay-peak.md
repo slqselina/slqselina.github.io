@@ -19,7 +19,7 @@ categories:
 
 {{< figure src="/img/2019/11/relay-peak/relay-peak4.jpg" title="" >}}
 
-接近顶峰时步道愈发狭窄，顺山脊延伸，地势较陡，令我不时恐高症发作，头晕目眩，但视野随之开阔，左侧山峦后是熟悉的内华达沙漠，赤褐色一片迷迷茫茫，右侧向特拉基（Truckee）方向望去可见三潭大小不一的碧水，或是湖或是水库。
+接近顶峰时步道愈发狭窄，顺山脊延伸，地势较陡，令我不时恐高症发作，头晕目眩，但视野随之开阔，左侧山峦后是熟悉的内华达沙漠，赤褐色一片迷迷茫茫，右侧向特拉基（Truckee）方向望去可见三潭大小不一的碧水，或湖或水库。
 {{< figure src="/img/2019/11/relay-peak/relay-peak7.jpg" title="山脊段步道" >}}
 
 {{< figure src="/img/2019/11/relay-peak/relay-peak5.jpg" title="遥望内华达沙漠" >}}
