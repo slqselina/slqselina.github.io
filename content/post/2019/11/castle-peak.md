@@ -1,7 +1,6 @@
 ---
 title: 城堡峰 Castle Peak
 date: 2019-11-16T19:30:00-07:00
-draft: true
 categories:
   - 徒步
   - 美国
