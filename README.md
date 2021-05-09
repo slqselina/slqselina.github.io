@@ -13,7 +13,7 @@ hugo -w server --buildDrafts
 ```
 
 On Windows:
-* Launch Ubumdo
+* Launch Ubuntu
 * Enter the following:
 ```
 cd /mnt/c/Hugo/Sites/slqselina.github.io/
