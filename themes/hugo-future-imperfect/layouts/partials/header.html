@@ -18,7 +18,7 @@
 
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        {{ .Hugo.Generator }}
+        {{ .hugo.Generator }}
         {{ partial "favicon" . }}
 
         {{ with .Params.author }}
@@ -34,7 +34,7 @@
 
         {{ template "_internal/twitter_cards.html" . }}
         <!--[if lte IE 8]><script src="/js/ie/html5shiv.js"></script><![endif]-->
-        
+
         {{ template "_internal/opengraph.html" . }}
         {{ template "_internal/schema.html" . }}
         {{ template "_internal/google_news.html" . }}
