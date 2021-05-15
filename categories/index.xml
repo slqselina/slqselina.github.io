@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on English-Su.com - Adventures of Panda and Penguin</title>
@@ -6,22 +6,17 @@
     <description>Recent content in Categories on English-Su.com - Adventures of Panda and Penguin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Nov 2019 19:30:00 -0700</lastBuildDate><atom:link href="http://english-su.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>徒步</title>
-      <link>http://english-su.com/categories/%E5%BE%92%E6%AD%A5/</link>
-      <pubDate>Sat, 16 Nov 2019 19:30:00 -0700</pubDate>
-      
-      <guid>http://english-su.com/categories/%E5%BE%92%E6%AD%A5/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 14 Aug 2017 20:39:34 -0700</lastBuildDate>
+    
+	<atom:link href="http://english-su.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>美国</title>
-      <link>http://english-su.com/categories/%E7%BE%8E%E5%9B%BD/</link>
-      <pubDate>Sat, 16 Nov 2019 19:30:00 -0700</pubDate>
+      <title>Backpacking</title>
+      <link>http://english-su.com/categories/backpacking/</link>
+      <pubDate>Mon, 14 Aug 2017 20:39:34 -0700</pubDate>
       
-      <guid>http://english-su.com/categories/%E7%BE%8E%E5%9B%BD/</guid>
+      <guid>http://english-su.com/categories/backpacking/</guid>
       <description></description>
     </item>
     
@@ -44,47 +39,20 @@
     </item>
     
     <item>
+      <title>New Zealand</title>
+      <link>http://english-su.com/categories/new-zealand/</link>
+      <pubDate>Sun, 13 Dec 2015 19:32:06 -0700</pubDate>
+      
+      <guid>http://english-su.com/categories/new-zealand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tahoe</title>
       <link>http://english-su.com/categories/tahoe/</link>
       <pubDate>Mon, 28 May 2018 20:29:34 -0700</pubDate>
       
       <guid>http://english-su.com/categories/tahoe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>USA</title>
-      <link>http://english-su.com/categories/usa/</link>
-      <pubDate>Mon, 28 May 2018 20:29:34 -0700</pubDate>
-      
-      <guid>http://english-su.com/categories/usa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travel</title>
-      <link>http://english-su.com/categories/travel/</link>
-      <pubDate>Sun, 07 Jan 2018 19:30:00 -0700</pubDate>
-      
-      <guid>http://english-su.com/categories/travel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Backpacking</title>
-      <link>http://english-su.com/categories/backpacking/</link>
-      <pubDate>Mon, 14 Aug 2017 20:39:34 -0700</pubDate>
-      
-      <guid>http://english-su.com/categories/backpacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thailand</title>
-      <link>http://english-su.com/categories/thailand/</link>
-      <pubDate>Sat, 19 Nov 2016 19:30:00 -0700</pubDate>
-      
-      <guid>http://english-su.com/categories/thailand/</guid>
       <description></description>
     </item>
     
@@ -98,11 +66,56 @@
     </item>
     
     <item>
-      <title>New Zealand</title>
-      <link>http://english-su.com/categories/new-zealand/</link>
-      <pubDate>Sun, 13 Dec 2015 19:32:06 -0700</pubDate>
+      <title>Thailand</title>
+      <link>http://english-su.com/categories/thailand/</link>
+      <pubDate>Sat, 19 Nov 2016 19:30:00 -0700</pubDate>
       
-      <guid>http://english-su.com/categories/new-zealand/</guid>
+      <guid>http://english-su.com/categories/thailand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://english-su.com/categories/travel/</link>
+      <pubDate>Sun, 07 Jan 2018 19:30:00 -0700</pubDate>
+      
+      <guid>http://english-su.com/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>USA</title>
+      <link>http://english-su.com/categories/usa/</link>
+      <pubDate>Mon, 28 May 2018 20:29:34 -0700</pubDate>
+      
+      <guid>http://english-su.com/categories/usa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>徒步</title>
+      <link>http://english-su.com/categories/%E5%BE%92%E6%AD%A5/</link>
+      <pubDate>Fri, 02 Apr 2021 19:30:00 -0700</pubDate>
+      
+      <guid>http://english-su.com/categories/%E5%BE%92%E6%AD%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>旅行</title>
+      <link>http://english-su.com/categories/%E6%97%85%E8%A1%8C/</link>
+      <pubDate>Fri, 02 Apr 2021 19:30:00 -0700</pubDate>
+      
+      <guid>http://english-su.com/categories/%E6%97%85%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>美国</title>
+      <link>http://english-su.com/categories/%E7%BE%8E%E5%9B%BD/</link>
+      <pubDate>Fri, 02 Apr 2021 19:30:00 -0700</pubDate>
+      
+      <guid>http://english-su.com/categories/%E7%BE%8E%E5%9B%BD/</guid>
       <description></description>
     </item>
     
