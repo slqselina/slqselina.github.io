@@ -36,6 +36,13 @@ jpegtran -copy none -optimize -progressive -outfile ferry-ride-small.jpg ferry-r
 ```
 
 ## Deploying the site
+Commit everything
+
+In Linux type:
+```
+git push origin hugo
+```
+
 ```
 ./deploy.sh
 ```
